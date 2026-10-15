@@ -1,0 +1,2179 @@
+ensemble,seed,i,nn_rms,nn_index,same_snapshot
+"held-out real fields, any training field",-1,0,0.027837634086608887,559,True
+"held-out real fields, any training field",-1,1,0.027554400265216827,3106,True
+"held-out real fields, any training field",-1,2,0.026977134868502617,362,True
+"held-out real fields, any training field",-1,3,0.028612244874238968,1446,True
+"held-out real fields, any training field",-1,4,0.027221783995628357,1137,True
+"held-out real fields, any training field",-1,5,0.0232771597802639,5751,True
+"held-out real fields, any training field",-1,6,0.027726514264941216,4551,True
+"held-out real fields, any training field",-1,7,0.0261966772377491,1862,True
+"held-out real fields, any training field",-1,8,0.02426711842417717,5639,True
+"held-out real fields, any training field",-1,9,0.02669045701622963,4731,True
+"held-out real fields, any training field",-1,10,0.024435462430119514,4175,True
+"held-out real fields, any training field",-1,11,0.03492986783385277,1346,True
+"held-out real fields, any training field",-1,12,0.03393777832388878,1500,True
+"held-out real fields, any training field",-1,13,0.027777574956417084,4248,True
+"held-out real fields, any training field",-1,14,0.028541406616568565,5406,True
+"held-out real fields, any training field",-1,15,0.022297725081443787,4924,True
+"held-out real fields, any training field",-1,16,0.026094086468219757,4100,True
+"held-out real fields, any training field",-1,17,0.027229219675064087,5324,True
+"held-out real fields, any training field",-1,18,0.027359014376997948,409,True
+"held-out real fields, any training field",-1,19,0.02684549242258072,5694,True
+"held-out real fields, any training field",-1,20,0.027081986889243126,1093,True
+"held-out real fields, any training field",-1,21,0.024150047451257706,2721,True
+"held-out real fields, any training field",-1,22,0.022025972604751587,5143,True
+"held-out real fields, any training field",-1,23,0.026973381638526917,1197,True
+"held-out real fields, any training field",-1,24,0.02496207505464554,681,True
+"held-out real fields, any training field",-1,25,0.028772756457328796,1813,True
+"held-out real fields, any training field",-1,26,0.03044942580163479,840,True
+"held-out real fields, any training field",-1,27,0.02559671178460121,3128,True
+"held-out real fields, any training field",-1,28,0.02469095028936863,5619,True
+"held-out real fields, any training field",-1,29,0.028491713106632233,5168,True
+"held-out real fields, any training field",-1,30,0.02550162933766842,1736,True
+"held-out real fields, any training field",-1,31,0.029302597045898438,4321,True
+"held-out real fields, any training field",-1,32,0.02593846060335636,4865,True
+"held-out real fields, any training field",-1,33,0.02839028462767601,747,True
+"held-out real fields, any training field",-1,34,0.02756725437939167,5272,True
+"held-out real fields, any training field",-1,35,0.024381553754210472,4454,True
+"held-out real fields, any training field",-1,36,0.027519479393959045,3821,True
+"held-out real fields, any training field",-1,37,0.023590315133333206,2782,True
+"held-out real fields, any training field",-1,38,0.027995357289910316,4090,True
+"held-out real fields, any training field",-1,39,0.02912937104701996,1950,True
+"held-out real fields, any training field",-1,40,0.026786986738443375,2202,True
+"held-out real fields, any training field",-1,41,0.024204472079873085,3507,True
+"held-out real fields, any training field",-1,42,0.025646094232797623,2686,True
+"held-out real fields, any training field",-1,43,0.0266468096524477,861,True
+"held-out real fields, any training field",-1,44,0.029495401307940483,1748,True
+"held-out real fields, any training field",-1,45,0.020586516708135605,2528,True
+"held-out real fields, any training field",-1,46,0.023825135082006454,390,True
+"held-out real fields, any training field",-1,47,0.028286702930927277,3497,True
+"held-out real fields, any training field",-1,48,0.027539702132344246,4731,True
+"held-out real fields, any training field",-1,49,0.0250793918967247,4709,True
+"held-out real fields, any training field",-1,50,0.026198610663414,1369,True
+"held-out real fields, any training field",-1,51,0.020505229011178017,2355,True
+"held-out real fields, any training field",-1,52,0.02386758103966713,1965,True
+"held-out real fields, any training field",-1,53,0.03139864280819893,2826,True
+"held-out real fields, any training field",-1,54,0.029955098405480385,669,True
+"held-out real fields, any training field",-1,55,0.02413327805697918,4266,True
+"held-out real fields, any training field",-1,56,0.035963572561740875,5133,True
+"held-out real fields, any training field",-1,57,0.026316184550523758,1537,True
+"held-out real fields, any training field",-1,58,0.027149179950356483,4621,True
+"held-out real fields, any training field",-1,59,0.02641216479241848,2208,True
+"held-out real fields, any training field",-1,60,0.024447886273264885,3464,True
+"held-out real fields, any training field",-1,61,0.026977134868502617,2746,True
+"held-out real fields, any training field",-1,62,0.022417696192860603,4929,True
+"held-out real fields, any training field",-1,63,0.023933224380016327,4342,True
+"held-out real fields, any training field",-1,64,0.02458619326353073,3733,True
+"held-out real fields, any training field",-1,65,0.024623217061161995,2917,True
+"held-out real fields, any training field",-1,66,0.02693958766758442,1025,True
+"held-out real fields, any training field",-1,67,0.023909952491521835,2958,True
+"held-out real fields, any training field",-1,68,0.02279159426689148,3680,True
+"held-out real fields, any training field",-1,69,0.023609615862369537,3419,True
+"held-out real fields, any training field",-1,70,0.020997872576117516,3677,True
+"held-out real fields, any training field",-1,71,0.023926880210638046,1730,True
+"held-out real fields, any training field",-1,72,0.025614500045776367,1056,True
+"held-out real fields, any training field",-1,73,0.026210198178887367,3288,True
+"held-out real fields, any training field",-1,74,0.029449036344885826,2052,True
+"held-out real fields, any training field",-1,75,0.029807748273015022,4145,True
+"held-out real fields, any training field",-1,76,0.023656727746129036,2205,True
+"held-out real fields, any training field",-1,77,0.026479145511984825,1576,True
+"held-out real fields, any training field",-1,78,0.03131956234574318,451,True
+"held-out real fields, any training field",-1,79,0.024727817624807358,3364,True
+"held-out real fields, any training field",-1,80,0.02915889210999012,4492,True
+"held-out real fields, any training field",-1,81,0.02245604246854782,1829,True
+"held-out real fields, any training field",-1,82,0.02850946970283985,252,True
+"held-out real fields, any training field",-1,83,0.027277501299977303,1048,True
+"held-out real fields, any training field",-1,84,0.0204037856310606,5443,True
+"held-out real fields, any training field",-1,85,0.02858215942978859,783,True
+"held-out real fields, any training field",-1,86,0.022782709449529648,288,True
+"held-out real fields, any training field",-1,87,0.02441059611737728,2400,True
+"held-out real fields, any training field",-1,88,0.03110390342772007,248,True
+"held-out real fields, any training field",-1,89,0.025885727256536484,2037,True
+"held-out real fields, any training field",-1,90,0.03038453496992588,5583,True
+"held-out real fields, any training field",-1,91,0.024124886840581894,1641,True
+"held-out real fields, any training field",-1,92,0.02860339917242527,5317,True
+"held-out real fields, any training field",-1,93,0.029094601050019264,4857,True
+"held-out real fields, any training field",-1,94,0.030975094065070152,1807,True
+"held-out real fields, any training field",-1,95,0.022691449150443077,3757,True
+"held-out real fields, any training field",-1,96,0.027425529435276985,3000,True
+"held-out real fields, any training field",-1,97,0.030906394124031067,813,True
+"held-out real fields, any training field",-1,98,0.02772468887269497,3911,True
+"held-out real fields, any training field",-1,99,0.02860339917242527,3671,True
+"held-out real fields, any training field",-1,100,0.023607471957802773,2807,True
+"held-out real fields, any training field",-1,101,0.029426688328385353,3346,True
+"held-out real fields, any training field",-1,102,0.027852175757288933,957,True
+"held-out real fields, any training field",-1,103,0.02115156501531601,5440,True
+"held-out real fields, any training field",-1,104,0.026699936017394066,5632,True
+"held-out real fields, any training field",-1,105,0.030307820066809654,2315,True
+"held-out real fields, any training field",-1,106,0.026406416669487953,3894,True
+"held-out real fields, any training field",-1,107,0.02800620160996914,4985,True
+"held-out real fields, any training field",-1,108,0.02741260826587677,3284,True
+"held-out real fields, any training field",-1,109,0.025650041177868843,5587,True
+"held-out real fields, any training field",-1,110,0.02595016546547413,4526,True
+"held-out real fields, any training field",-1,111,0.027309024706482887,2049,True
+"held-out real fields, any training field",-1,112,0.028013428673148155,5484,True
+"held-out real fields, any training field",-1,113,0.025384269654750824,5100,True
+"held-out real fields, any training field",-1,114,0.022811569273471832,2753,True
+"held-out real fields, any training field",-1,115,0.02855558693408966,246,True
+"held-out real fields, any training field",-1,116,0.0265897698700428,4371,True
+"held-out real fields, any training field",-1,117,0.025618450716137886,3349,True
+"held-out real fields, any training field",-1,118,0.027841269969940186,3276,True
+"held-out real fields, any training field",-1,119,0.02646385133266449,1236,True
+"held-out real fields, any training field",-1,120,0.02645046077668667,39,True
+"held-out real fields, any training field",-1,121,0.02729419432580471,4577,True
+"held-out real fields, any training field",-1,122,0.02362247370183468,678,True
+"held-out real fields, any training field",-1,123,0.024126986041665077,4615,True
+"held-out real fields, any training field",-1,124,0.021922331303358078,3994,True
+"held-out real fields, any training field",-1,125,0.02990436926484108,5085,True
+"held-out real fields, any training field",-1,126,0.02315727062523365,3617,True
+"held-out real fields, any training field",-1,127,0.027884863317012787,5067,True
+"held-out real fields, any training field",-1,128,0.025360334664583206,4779,True
+"held-out real fields, any training field",-1,129,0.03055395744740963,5269,True
+"held-out real fields, any training field",-1,130,0.024385705590248108,3579,True
+"held-out real fields, any training field",-1,131,0.025622403249144554,1592,True
+"held-out real fields, any training field",-1,132,0.02321184240281582,1281,True
+"held-out real fields, any training field",-1,133,0.024829940870404243,1100,True
+"held-out real fields, any training field",-1,134,0.02904411219060421,2679,True
+"held-out real fields, any training field",-1,135,0.027117470279335976,2482,True
+"held-out real fields, any training field",-1,136,0.030302809551358223,4226,True
+"held-out real fields, any training field",-1,137,0.025588801130652428,3403,True
+"held-out real fields, any training field",-1,138,0.030387867242097855,1443,True
+"held-out real fields, any training field",-1,139,0.029190117493271828,3647,True
+"held-out real fields, any training field",-1,140,0.024557357653975487,106,True
+"held-out real fields, any training field",-1,141,0.02307407185435295,2669,True
+"held-out real fields, any training field",-1,142,0.026392996311187744,1252,True
+"held-out real fields, any training field",-1,143,0.022277288138866425,4587,True
+"held-out real fields, any training field",-1,144,0.02718271315097809,5507,True
+"held-out real fields, any training field",-1,145,0.028136009350419044,4072,True
+"held-out real fields, any training field",-1,146,0.02594626508653164,3899,True
+"held-out real fields, any training field",-1,147,0.026448547840118408,4837,True
+"held-out real fields, any training field",-1,148,0.02100510336458683,136,True
+"held-out real fields, any training field",-1,149,0.02899528108537197,1212,True
+"held-out real fields, any training field",-1,150,0.030563894659280777,2220,True
+"held-out real fields, any training field",-1,151,0.025916989892721176,5172,True
+"held-out real fields, any training field",-1,152,0.025608571246266365,1576,True
+"held-out real fields, any training field",-1,153,0.025424115359783173,590,True
+"held-out real fields, any training field",-1,154,0.026637310162186623,4336,True
+"held-out real fields, any training field",-1,155,0.02723851054906845,4580,True
+"held-out real fields, any training field",-1,156,0.025785822421312332,874,True
+"held-out real fields, any training field",-1,157,0.022818224504590034,5422,True
+"held-out real fields, any training field",-1,158,0.02830101177096367,4070,True
+"held-out real fields, any training field",-1,159,0.02930086851119995,4938,True
+"held-out real fields, any training field",-1,160,0.02485031448304653,3413,True
+"held-out real fields, any training field",-1,161,0.023791123181581497,4160,True
+"held-out real fields, any training field",-1,162,0.025541290640830994,3715,True
+"held-out real fields, any training field",-1,163,0.032696738839149475,4383,True
+"held-out real fields, any training field",-1,164,0.026536421850323677,5715,True
+"held-out real fields, any training field",-1,165,0.027203185483813286,777,True
+"held-out real fields, any training field",-1,166,0.028948117047548294,3611,True
+"held-out real fields, any training field",-1,167,0.02697525918483734,1714,True
+"held-out real fields, any training field",-1,168,0.023534469306468964,3879,True
+"held-out real fields, any training field",-1,169,0.02426920458674431,1180,True
+"held-out real fields, any training field",-1,170,0.028056753799319267,2009,True
+"held-out real fields, any training field",-1,171,0.030530760064721107,4277,True
+"held-out real fields, any training field",-1,172,0.02769729308784008,687,True
+"held-out real fields, any training field",-1,173,0.025107627734541893,5308,True
+"held-out real fields, any training field",-1,174,0.023283682763576508,3529,True
+"held-out real fields, any training field",-1,175,0.023810261860489845,1889,True
+"held-out real fields, any training field",-1,176,0.025168025866150856,3008,True
+"held-out real fields, any training field",-1,177,0.023990251123905182,25,True
+"held-out real fields, any training field",-1,178,0.024727817624807358,186,True
+"held-out real fields, any training field",-1,179,0.02497018314898014,4502,True
+"held-out real fields, any training field",-1,180,0.026532607153058052,2490,True
+"held-out real fields, any training field",-1,181,0.027655234560370445,5548,True
+"held-out real fields, any training field",-1,182,0.02313321828842163,1335,True
+"held-out real fields, any training field",-1,183,0.03256179764866829,1524,True
+"held-out real fields, any training field",-1,184,0.023361800238490105,1831,True
+"held-out real fields, any training field",-1,185,0.02605138160288334,4450,True
+"held-out real fields, any training field",-1,186,0.026308489963412285,2421,True
+"held-out real fields, any training field",-1,187,0.02502889186143875,2921,True
+"held-out real fields, any training field",-1,188,0.024727817624807358,2251,True
+"held-out real fields, any training field",-1,189,0.027145450934767723,3810,True
+"held-out real fields, any training field",-1,190,0.023521563038229942,4478,True
+"held-out real fields, any training field",-1,191,0.026735926046967506,516,True
+"held-out real fields, any training field",-1,192,0.029435286298394203,1115,True
+"held-out real fields, any training field",-1,193,0.028916630893945694,502,True
+"held-out real fields, any training field",-1,194,0.02248307131230831,3416,True
+"held-out real fields, any training field",-1,195,0.025318391621112823,4967,True
+"held-out real fields, any training field",-1,196,0.026982761919498444,5258,True
+"held-out real fields, any training field",-1,197,0.0292213074862957,3162,True
+"held-out real fields, any training field",-1,198,0.02749188058078289,119,True
+"held-out real fields, any training field",-1,199,0.024772804230451584,182,True
+"held-out real fields, any training field",-1,200,0.027870340272784233,731,True
+"held-out real fields, any training field",-1,201,0.030467703938484192,2242,True
+"held-out real fields, any training field",-1,202,0.024625271558761597,2634,True
+"held-out real fields, any training field",-1,203,0.02357529290020466,5148,True
+"held-out real fields, any training field",-1,204,0.02716595120728016,5480,True
+"held-out real fields, any training field",-1,205,0.023665282875299454,3927,True
+"held-out real fields, any training field",-1,206,0.024733956903219223,3527,True
+"held-out real fields, any training field",-1,207,0.02560066618025303,2444,True
+"held-out real fields, any training field",-1,208,0.024592367932200432,4889,True
+"held-out real fields, any training field",-1,209,0.03208740055561066,5063,True
+"held-out real fields, any training field",-1,210,0.026004716753959656,1081,True
+"held-out real fields, any training field",-1,211,0.031283993273973465,3962,True
+"held-out real fields, any training field",-1,212,0.029509125277400017,795,True
+"held-out real fields, any training field",-1,213,0.024254603311419487,428,True
+"held-out real fields, any training field",-1,214,0.026082446798682213,5000,True
+"held-out real fields, any training field",-1,215,0.02583092637360096,5102,True
+"held-out real fields, any training field",-1,216,0.024497518315911293,4450,True
+"held-out real fields, any training field",-1,217,0.027113737538456917,5697,True
+"held-out real fields, any training field",-1,218,0.023865461349487305,2768,True
+"held-out real fields, any training field",-1,219,0.032142557203769684,1810,True
+"held-out real fields, any training field",-1,220,0.024801388382911682,3735,True
+"held-out real fields, any training field",-1,221,0.023152898997068405,4703,True
+"held-out real fields, any training field",-1,222,0.026096025481820107,2765,True
+"held-out real fields, any training field",-1,223,0.023665282875299454,4548,True
+"held-out real fields, any training field",-1,224,0.028899123892188072,5449,True
+"held-out real fields, any training field",-1,225,0.02827596478164196,1603,True
+"held-out real fields, any training field",-1,226,0.026345014572143555,634,True
+"held-out real fields, any training field",-1,227,0.0253163930028677,5487,True
+"held-out real fields, any training field",-1,228,0.02899528108537197,4066,True
+"held-out real fields, any training field",-1,229,0.025663848966360092,2040,True
+"held-out real fields, any training field",-1,230,0.02661069855093956,2773,True
+"held-out real fields, any training field",-1,231,0.0282222181558609,942,True
+"held-out real fields, any training field",-1,232,0.026511618867516518,4093,True
+"held-out real fields, any training field",-1,233,0.0223408080637455,2562,True
+"held-out real fields, any training field",-1,234,0.02701837569475174,1195,True
+"held-out real fields, any training field",-1,235,0.02311570756137371,3561,True
+"held-out real fields, any training field",-1,236,0.026068858802318573,516,True
+"held-out real fields, any training field",-1,237,0.023558111861348152,4540,True
+"held-out real fields, any training field",-1,238,0.02864936739206314,5089,True
+"held-out real fields, any training field",-1,239,0.02841166779398918,3586,True
+"held-out real fields, any training field",-1,240,0.029955098405480385,4496,True
+"held-out real fields, any training field",-1,241,0.027580101042985916,226,True
+"held-out real fields, any training field",-1,242,0.023960698395967484,2165,True
+"held-out real fields, any training field",-1,243,0.030585413798689842,819,True
+"held-out real fields, any training field",-1,244,0.022749364376068115,262,True
+"held-out real fields, any training field",-1,245,0.021055638790130615,1077,True
+"held-out real fields, any training field",-1,246,0.02100510336458683,3390,True
+"held-out real fields, any training field",-1,247,0.018256908282637596,2412,True
+"held-out real fields, any training field",-1,248,0.024491319432854652,4979,True
+"held-out real fields, any training field",-1,249,0.025069300085306168,1070,True
+"held-out real fields, any training field",-1,250,0.026469586417078972,1793,True
+"held-out real fields, any training field",-1,251,0.024742141366004944,3368,True
+"held-out real fields, any training field",-1,252,0.02264009416103363,5340,True
+"held-out real fields, any training field",-1,253,0.023628899827599525,3983,True
+"held-out real fields, any training field",-1,254,0.0258955005556345,484,True
+"held-out real fields, any training field",-1,255,0.031430862843990326,3141,True
+"held-out real fields, any training field",-1,256,0.030372872948646545,3545,True
+"held-out real fields, any training field",-1,257,0.028408104553818703,3858,True
+"held-out real fields, any training field",-1,258,0.02595796436071396,2984,True
+"held-out real fields, any training field",-1,259,0.029252465814352036,540,True
+"held-out real fields, any training field",-1,260,0.02754705213010311,3177,True
+"held-out real fields, any training field",-1,261,0.02071884274482727,2229,True
+"held-out real fields, any training field",-1,262,0.026074683293700218,3902,True
+"held-out real fields, any training field",-1,263,0.027834000065922737,475,True
+"held-out real fields, any training field",-1,264,0.026404500007629395,2708,True
+"held-out real fields, any training field",-1,265,0.023922650143504143,5194,True
+"held-out real fields, any training field",-1,266,0.03044111467897892,3079,True
+"held-out real fields, any training field",-1,267,0.02584463730454445,3856,True
+"held-out real fields, any training field",-1,268,0.024325445294380188,4300,True
+"held-out real fields, any training field",-1,269,0.02891312912106514,4394,True
+"held-out real fields, any training field",-1,270,0.026890698820352554,3688,True
+"held-out real fields, any training field",-1,271,0.028735795989632607,2245,True
+"held-out real fields, any training field",-1,272,0.025475816801190376,1404,True
+"held-out real fields, any training field",-1,273,0.026822861284017563,1816,True
+"held-out real fields, any training field",-1,274,0.025135831907391548,1250,True
+"held-out real fields, any training field",-1,275,0.029526270925998688,2173,True
+"held-out real fields, any training field",-1,276,0.021465079858899117,3390,True
+"held-out real fields, any training field",-1,277,0.027966417372226715,1440,True
+"held-out real fields, any training field",-1,278,0.02419401705265045,3614,True
+"held-out real fields, any training field",-1,279,0.020542217418551445,4590,True
+"held-out real fields, any training field",-1,280,0.02534835785627365,4844,True
+"held-out real fields, any training field",-1,281,0.029171038419008255,406,True
+"held-out real fields, any training field",-1,282,0.025667792186141014,368,True
+"held-out real fields, any training field",-1,283,0.031084371730685234,1038,True
+"held-out real fields, any training field",-1,284,0.02829206921160221,3574,True
+"held-out real fields, any training field",-1,285,0.02789212204515934,1953,True
+"held-out real fields, any training field",-1,286,0.026701830327510834,299,True
+"held-out real fields, any training field",-1,287,0.024903208017349243,2840,True
+"held-out real fields, any training field",-1,288,0.02605138160288334,1764,True
+"held-out real fields, any training field",-1,289,0.0280675757676363,5662,True
+"held-out real fields, any training field",-1,290,0.024145856499671936,2874,True
+"held-out real fields, any training field",-1,291,0.029209181666374207,1717,True
+"held-out real fields, any training field",-1,292,0.024901175871491432,2165,True
+"held-out real fields, any training field",-1,293,0.03027607500553131,896,True
+"held-out real fields, any training field",-1,294,0.0262314286082983,5616,True
+"held-out real fields, any training field",-1,295,0.03002934344112873,3819,True
+"held-out real fields, any training field",-1,296,0.02345692552626133,1567,True
+"held-out real fields, any training field",-1,297,0.028207868337631226,4230,True
+"held-out real fields, any training field",-1,298,0.024435462430119514,5720,True
+"held-out real fields, any training field",-1,299,0.026366136968135834,4682,True
+"held-out real fields, any training field",-1,300,0.05113407224416733,554,True
+"held-out real fields, any training field",-1,301,0.027309024706482887,3093,True
+"held-out real fields, any training field",-1,302,0.025364326313138008,4596,True
+"held-out real fields, any training field",-1,303,0.026868104934692383,5242,True
+"held-out real fields, any training field",-1,304,0.02745872549712658,1059,True
+"held-out real fields, any training field",-1,305,0.024325445294380188,2251,True
+"held-out real fields, any training field",-1,306,0.026064977049827576,5614,True
+"held-out real fields, any training field",-1,307,0.030896568670868874,2900,True
+"held-out real fields, any training field",-1,308,0.026995887979865074,5078,True
+"held-out real fields, any training field",-1,309,0.027797609567642212,3446,True
+"held-out real fields, any training field",-1,310,0.02792113833129406,3383,True
+"held-out real fields, any training field",-1,311,0.03356138989329338,1497,True
+"held-out real fields, any training field",-1,312,0.027381204068660736,4635,True
+"held-out real fields, any training field",-1,313,0.027646083384752274,4103,True
+"held-out real fields, any training field",-1,314,0.03380928933620453,2338,True
+"held-out real fields, any training field",-1,315,0.026366136968135834,1837,True
+"held-out real fields, any training field",-1,316,0.030311159789562225,1453,True
+"held-out real fields, any training field",-1,317,0.023663144558668137,2046,True
+"held-out real fields, any training field",-1,318,0.030855590477585793,3108,True
+"held-out real fields, any training field",-1,319,0.025862256065011024,1841,True
+"held-out real fields, any training field",-1,320,0.02879561483860016,5455,True
+"held-out real fields, any training field",-1,321,0.044392988085746765,3502,True
+"held-out real fields, any training field",-1,322,0.027664383873343468,5742,True
+"held-out real fields, any training field",-1,323,0.025967711582779884,3424,True
+"held-out real fields, any training field",-1,324,0.029016219079494476,4647,True
+"held-out real fields, any training field",-1,325,0.023846367374062538,5556,True
+"held-out real fields, any training field",-1,326,0.029392270371317863,3454,True
+"held-out real fields, any training field",-1,327,0.024406449869275093,2812,True
+"held-out real fields, any training field",-1,328,0.02753235027194023,3690,True
+"held-out real fields, any training field",-1,329,0.026549769565463066,673,True
+"held-out real fields, any training field",-1,330,0.025724908336997032,2655,True
+"held-out real fields, any training field",-1,331,0.024785058572888374,537,True
+"held-out real fields, any training field",-1,332,0.024592367932200432,2871,True
+"held-out real fields, any training field",-1,333,0.02169024385511875,1934,True
+"held-out real fields, any training field",-1,334,0.027408914640545845,2381,True
+"held-out real fields, any training field",-1,335,0.02404503896832466,1738,True
+"held-out real fields, any training field",-1,336,0.029035400599241257,2348,True
+"held-out real fields, any training field",-1,337,0.025956016033887863,2376,True
+"held-out real fields, any training field",-1,338,0.030863789841532707,3964,True
+"held-out real fields, any training field",-1,339,0.026930194348096848,5657,True
+"held-out real fields, any training field",-1,340,0.027864892035722733,140,True
+"held-out real fields, any training field",-1,341,0.028946368023753166,3451,True
+"held-out real fields, any training field",-1,342,0.025626352056860924,5772,True
+"held-out real fields, any training field",-1,343,0.025899408385157585,1929,True
+"held-out real fields, any training field",-1,344,0.02643323503434658,4415,True
+"held-out real fields, any training field",-1,345,0.02408919855952263,4889,True
+"held-out real fields, any training field",-1,346,0.027864892035722733,5551,True
+"held-out real fields, any training field",-1,347,0.024013446643948555,3422,True
+"held-out real fields, any training field",-1,348,0.027959177270531654,2696,True
+"held-out real fields, any training field",-1,349,0.021739186719059944,2000,True
+"held-out real fields, any training field",-1,350,0.034742459654808044,3605,True
+"held-out real fields, any training field",-1,351,0.02466634102165699,3260,True
+"held-out real fields, any training field",-1,352,0.02708759345114231,326,True
+"held-out real fields, any training field",-1,353,0.029419807717204094,2827,True
+"held-out real fields, any training field",-1,354,0.024431319907307625,4886,True
+"held-out real fields, any training field",-1,355,0.024925554171204567,1563,True
+"held-out real fields, any training field",-1,356,0.022570690140128136,849,True
+"held-out real fields, any training field",-1,357,0.02389724925160408,4970,True
+"held-out real fields, any training field",-1,358,0.02802787721157074,296,True
+"held-out real fields, any training field",-1,359,0.02703522890806198,3225,True
+"held-out real fields, any training field",-1,360,0.027524996548891068,773,True
+"held-out real fields, any training field",-1,361,0.029314683750271797,301,True
+"held-out real fields, any training field",-1,362,0.02705955319106579,1084,True
+"held-out real fields, any training field",-1,363,0.02703522890806198,4758,True
+"held-out real fields, any training field",-1,364,0.026924554258584976,4554,True
+"held-out real fields, any training field",-1,365,0.02827775478363037,4317,True
+"held-out real fields, any training field",-1,366,0.028502367436885834,3431,True
+"held-out real fields, any training field",-1,367,0.024656081572175026,3479,True
+"held-out real fields, any training field",-1,368,0.025483762845396996,2263,True
+"held-out real fields, any training field",-1,369,0.024864567443728447,3133,True
+"held-out real fields, any training field",-1,370,0.031241901218891144,2454,True
+"held-out real fields, any training field",-1,371,0.02600277028977871,2459,True
+"held-out real fields, any training field",-1,372,0.028347468003630638,4899,True
+"held-out real fields, any training field",-1,373,0.022265926003456116,3502,True
+"held-out real fields, any training field",-1,374,0.027093198150396347,364,True
+"held-out real fields, any training field",-1,375,0.026350777596235275,73,True
+"held-out real fields, any training field",-1,376,0.025049105286598206,5105,True
+"held-out real fields, any training field",-1,377,0.031290460377931595,4154,True
+"held-out real fields, any training field",-1,378,0.024815667420625687,4445,True
+"held-out real fields, any training field",-1,379,0.03107297234237194,171,True
+"held-out real fields, any training field",-1,380,0.025467868894338608,5650,True
+"held-out real fields, any training field",-1,381,0.02811441756784916,1758,True
+"held-out real fields, any training field",-1,382,0.02525033801794052,5003,True
+"held-out real fields, any training field",-1,383,0.027268223464488983,1119,True
+"held-out real fields, any training field",-1,384,0.02365458756685257,4352,True
+"held-out real fields, any training field",-1,385,0.027286777272820473,5418,True
+"held-out real fields, any training field",-1,386,0.024235816672444344,346,True
+"held-out real fields, any training field",-1,387,0.026980886235833168,2493,True
+"held-out real fields, any training field",-1,388,0.0264657624065876,627,True
+"held-out real fields, any training field",-1,389,0.03058044984936714,2456,True
+"held-out real fields, any training field",-1,390,0.023272810503840446,3165,True
+"held-out real fields, any training field",-1,391,0.02034914307296276,2470,True
+"held-out real fields, any training field",-1,392,0.03057217225432396,403,True
+"held-out real fields, any training field",-1,393,0.025815246626734734,3563,True
+"held-out real fields, any training field",-1,394,0.02184833213686943,5561,True
+"held-out real fields, any training field",-1,395,0.029181446880102158,1645,True
+"held-out real fields, any training field",-1,396,0.02592870406806469,3888,True
+"held-out real fields, any training field",-1,397,0.027141721919178963,4796,True
+"held-out real fields, any training field",-1,398,0.04562092199921608,3507,True
+"held-out real fields, any training field",-1,399,0.027264511212706566,554,True
+"held-out real fields, any training field",-1,400,0.027232935652136803,2015,True
+"held-out real fields, any training field",-1,401,0.024170996621251106,3984,True
+"held-out real fields, any training field",-1,402,0.02282044291496277,394,True
+"held-out real fields, any training field",-1,403,0.027329402044415474,1987,True
+"held-out real fields, any training field",-1,404,0.0281719621270895,4272,True
+"held-out real fields, any training field",-1,405,0.02593260630965233,4543,True
+"held-out real fields, any training field",-1,406,0.027434753254055977,2507,True
+"held-out real fields, any training field",-1,407,0.025754401460289955,3997,True
+"held-out real fields, any training field",-1,408,0.024491319432854652,1940,True
+"held-out real fields, any training field",-1,409,0.023861220106482506,5569,True
+"held-out real fields, any training field",-1,410,0.0207578893750906,1223,True
+"held-out real fields, any training field",-1,411,0.032710667699575424,2927,True
+"held-out real fields, any training field",-1,412,0.025592757388949394,5717,True
+"held-out real fields, any training field",-1,413,0.05240977182984352,559,True
+"held-out real fields, any training field",-1,414,0.03153855726122856,2141,True
+"held-out real fields, any training field",-1,415,0.026248786598443985,1881,True
+"held-out real fields, any training field",-1,416,0.030172258615493774,2556,True
+"held-out real fields, any training field",-1,417,0.023876061663031578,5125,True
+"held-out real fields, any training field",-1,418,0.027208765968680382,1493,True
+"held-out real fields, any training field",-1,419,0.026473410427570343,4716,True
+"held-out real fields, any training field",-1,420,0.02716781385242939,1538,True
+"held-out real fields, any training field",-1,421,0.024925554171204567,4919,True
+"held-out real fields, any training field",-1,422,0.026682870462536812,3237,True
+"held-out real fields, any training field",-1,423,0.023402925580739975,3253,True
+"held-out real fields, any training field",-1,424,0.025952115654945374,4764,True
+"held-out real fields, any training field",-1,425,0.022372500970959663,3006,True
+"held-out real fields, any training field",-1,426,0.03130986541509628,4583,True
+"held-out real fields, any training field",-1,427,0.026055267080664635,964,True
+"held-out real fields, any training field",-1,428,0.024518169462680817,2478,True
+"held-out real fields, any training field",-1,429,0.032147280871868134,2661,True
+"held-out real fields, any training field",-1,430,0.02742183767259121,4551,True
+"held-out real fields, any training field",-1,431,0.032944999635219574,3601,True
+"held-out real fields, any training field",-1,432,0.02999899350106716,4055,True
+"held-out real fields, any training field",-1,433,0.02555515617132187,643,True
+"held-out real fields, any training field",-1,434,0.022060411050915718,132,True
+"held-out real fields, any training field",-1,435,0.021708901971578598,2641,True
+"held-out real fields, any training field",-1,436,0.029016219079494476,355,True
+"held-out real fields, any training field",-1,437,0.02615220658481121,4973,True
+"held-out real fields, any training field",-1,438,0.029560532420873642,4326,True
+"held-out real fields, any training field",-1,439,0.02426503412425518,4017,True
+"held-out real fields, any training field",-1,440,0.028256269171833992,786,True
+"held-out real fields, any training field",-1,441,0.021566225215792656,3185,True
+"held-out real fields, any training field",-1,442,0.02234533801674843,3471,True
+"held-out real fields, any training field",-1,443,0.021624812856316566,1589,True
+"held-out real fields, any training field",-1,444,0.02375280298292637,4442,True
+"held-out real fields, any training field",-1,445,0.028751641511917114,2192,True
+"held-out real fields, any training field",-1,446,0.028654664754867554,5681,True
+"held-out real fields, any training field",-1,447,0.023988140746951103,2564,True
+"held-out real fields, any training field",-1,448,0.027046458795666695,2236,True
+"held-out real fields, any training field",-1,449,0.029012732207775116,41,True
+"held-out real fields, any training field",-1,450,0.022586381062865257,3257,True
+"held-out real fields, any training field",-1,451,0.02294650487601757,2162,True
+"held-out real fields, any training field",-1,452,0.02378261275589466,2857,True
+"held-out real fields, any training field",-1,453,0.026877522468566895,3685,True
+"held-out real fields, any training field",-1,454,0.02749188058078289,2521,True
+"held-out real fields, any training field",-1,455,0.022900141775608063,3560,True
+"held-out real fields, any training field",-1,456,0.030672987923026085,3172,True
+"held-out real fields, any training field",-1,457,0.024254603311419487,618,True
+"held-out real fields, any training field",-1,458,0.025598689913749695,704,True
+"held-out real fields, any training field",-1,459,0.027436597272753716,2986,True
+"held-out real fields, any training field",-1,460,0.02579955942928791,1614,True
+"held-out real fields, any training field",-1,461,0.028026072308421135,202,True
+"held-out real fields, any training field",-1,462,0.03053738921880722,2055,True
+"held-out real fields, any training field",-1,463,0.022778267040848732,1767,True
+"held-out real fields, any training field",-1,464,0.02565201371908188,5370,True
+"held-out real fields, any training field",-1,465,0.02864583395421505,281,True
+"held-out real fields, any training field",-1,466,0.02634117193520069,2379,True
+"held-out real fields, any training field",-1,467,0.05121418088674545,5324,True
+"held-out real fields, any training field",-1,468,0.025936510413885117,1647,True
+"held-out real fields, any training field",-1,469,0.026175418868660927,2712,True
+"held-out real fields, any training field",-1,470,0.021676240488886833,134,True
+"held-out real fields, any training field",-1,471,0.029134582728147507,1343,True
+"held-out real fields, any training field",-1,472,0.025414159521460533,1016,True
+"held-out real fields, any training field",-1,473,0.023831507191061974,2718,True
+"held-out real fields, any training field",-1,474,0.021406054496765137,3831,True
+"held-out real fields, any training field",-1,475,0.0285041444003582,3438,True
+"held-out real fields, any training field",-1,476,0.02540021575987339,5028,True
+"held-out real fields, any training field",-1,477,0.023469867184758186,543,True
+"held-out real fields, any training field",-1,478,0.026031948626041412,1364,True
+"held-out real fields, any training field",-1,479,0.024538801982998848,2153,True
+"held-out real fields, any training field",-1,480,0.026566920801997185,3048,True
+"held-out real fields, any training field",-1,481,0.02890612743794918,5261,True
+"held-out real fields, any training field",-1,482,0.023237990215420723,849,True
+"held-out real fields, any training field",-1,483,0.027440287172794342,2197,True
+"held-out real fields, any training field",-1,484,0.027742937207221985,2018,True
+"held-out real fields, any training field",-1,485,0.02777210995554924,1582,True
+"held-out real fields, any training field",-1,486,0.033451128751039505,1211,True
+"held-out real fields, any training field",-1,487,0.02595406584441662,5702,True
+"held-out real fields, any training field",-1,488,0.027839452028274536,2067,True
+"held-out real fields, any training field",-1,489,0.025258352980017662,4217,True
+"held-out real fields, any training field",-1,490,0.027513962239027023,5774,True
+"held-out real fields, any training field",-1,491,0.026113474741578102,4510,True
+"held-out real fields, any training field",-1,492,0.03305235877633095,3145,True
+"held-out real fields, any training field",-1,493,0.02687375620007515,4179,True
+"held-out real fields, any training field",-1,494,0.025346361100673676,1311,True
+"held-out real fields, any training field",-1,495,0.026786986738443375,1606,True
+"held-out real fields, any training field",-1,496,0.022992774844169617,1022,True
+"held-out real fields, any training field",-1,497,0.025170035660266876,1656,True
+"held-out real fields, any training field",-1,498,0.02587595023214817,81,True
+"held-out real fields, any training field",-1,499,0.026837950572371483,3063,True
+"held-out real fields, any training field",-1,500,0.02789212204515934,5379,True
+"held-out real fields, any training field",-1,501,0.025260355323553085,4952,True
+"held-out real fields, any training field",-1,502,0.025214234367012978,20,True
+"held-out real fields, any training field",-1,503,0.025166016072034836,1192,True
+"held-out real fields, any training field",-1,504,0.021869169548153877,5558,True
+"held-out real fields, any training field",-1,505,0.025004616007208824,4017,True
+"held-out real fields, any training field",-1,506,0.02818273939192295,5713,True
+"held-out real fields, any training field",-1,507,0.02380600944161415,3069,True
+"held-out real fields, any training field",-1,508,0.027682671323418617,4198,True
+"held-out real fields, any training field",-1,509,0.022067293524742126,4881,True
+"held-out real fields, any training field",-1,510,0.027123069390654564,2312,True
+"held-out real fields, any training field",-1,511,0.023163825273513794,3305,True
+"held-out real fields, any training field",-1,512,0.022428981959819794,925,True
+"held-out real fields, any training field",-1,513,0.021500416100025177,4534,True
+"held-out real fields, any training field",-1,514,0.026892581954598427,4182,True
+"held-out real fields, any training field",-1,515,0.022304533049464226,2084,True
+"held-out real fields, any training field",-1,516,0.0210339967161417,3244,True
+"held-out real fields, any training field",-1,517,0.026379572227597237,1746,True
+"held-out real fields, any training field",-1,518,0.02661830559372902,952,True
+"held-out real fields, any training field",-1,519,0.029824720695614815,497,True
+"held-out real fields, any training field",-1,520,0.028684675693511963,4568,True
+"held-out real fields, any training field",-1,521,0.02662590891122818,1550,True
+"held-out real fields, any training field",-1,522,0.025479789823293686,3942,True
+"held-out real fields, any training field",-1,523,0.027388596907258034,1393,True
+"held-out real fields, any training field",-1,524,0.02881493978202343,2953,True
+"held-out real fields, any training field",-1,525,0.03516092896461487,752,True
+"held-out real fields, any training field",-1,526,0.03137929365038872,5065,True
+"held-out real fields, any training field",-1,527,0.022646797820925713,5347,True
+"held-out real fields, any training field",-1,528,0.024988418444991112,2424,True
+"held-out real fields, any training field",-1,529,0.027020249515771866,595,True
+"held-out real fields, any training field",-1,530,0.02251681126654148,467,True
+"held-out real fields, any training field",-1,531,0.027519479393959045,3373,True
+"held-out real fields, any training field",-1,532,0.027793968096375465,1200,True
+"held-out real fields, any training field",-1,533,0.024406449869275093,1411,True
+"held-out real fields, any training field",-1,534,0.024888979271054268,594,True
+"held-out real fields, any training field",-1,535,0.030004054307937622,3752,True
+"held-out real fields, any training field",-1,536,0.022802693769335747,4592,True
+"held-out real fields, any training field",-1,537,0.026028059422969818,883,True
+"held-out real fields, any training field",-1,538,0.02864230051636696,2096,True
+"held-out real fields, any training field",-1,539,0.026494430378079414,185,True
+"held-out real fields, any training field",-1,540,0.028675852343440056,3954,True
+"held-out real fields, any training field",-1,541,0.025493690744042397,967,True
+"held-out real fields, any training field",-1,542,0.030152123421430588,4824,True
+"held-out real fields, any training field",-1,543,0.02217482216656208,4131,True
+"held-out real fields, any training field",-1,544,0.026749173179268837,4727,True
+"held-out real fields, any training field",-1,545,0.025332380086183548,259,True
+"held-out real fields, any training field",-1,546,0.02246055006980896,4884,True
+"held-out real fields, any training field",-1,547,0.02288687787950039,587,True
+"held-out real fields, any training field",-1,548,0.026915155351161957,4465,True
+"held-out real fields, any training field",-1,549,0.028096411377191544,2776,True
+"held-out real fields, any training field",-1,550,0.032741595059633255,4385,True
+"held-out real fields, any training field",-1,551,0.02366742305457592,3639,True
+"held-out real fields, any training field",-1,552,0.024540863931179047,4335,True
+"held-out real fields, any training field",-1,553,0.026986513286828995,3690,True
+"held-out real fields, any training field",-1,554,0.02135397680103779,1620,True
+"held-out real fields, any training field",-1,555,0.026343094184994698,4982,True
+"held-out real fields, any training field",-1,556,0.027671700343489647,2082,True
+"held-out real fields, any training field",-1,557,0.025774044916033745,1186,True
+"held-out real fields, any training field",-1,558,0.028042320162057877,4004,True
+"held-out real fields, any training field",-1,559,0.030073130503296852,1638,True
+"held-out real fields, any training field",-1,560,0.02299717627465725,3971,True
+"held-out real fields, any training field",-1,561,0.02314196527004242,3939,True
+"held-out real fields, any training field",-1,562,0.02192925475537777,3298,True
+"held-out real fields, any training field",-1,563,0.025722941383719444,1723,True
+"held-out real fields, any training field",-1,564,0.024371173232793808,3592,True
+"held-out real fields, any training field",-1,565,0.022642329335212708,4187,True
+"held-out real fields, any training field",-1,566,0.02932676672935486,3199,True
+"held-out real fields, any training field",-1,567,0.024244168773293495,2403,True
+"held-out real fields, any training field",-1,568,0.03149520233273506,816,True
+"held-out real fields, any training field",-1,569,0.024664288386702538,5301,True
+"held-out real fields, any training field",-1,570,0.028051340952515602,3060,True
+"held-out real fields, any training field",-1,571,0.030096683651208878,1803,True
+"held-out real fields, any training field",-1,572,0.02371015027165413,5646,True
+"held-out real fields, any training field",-1,573,0.02404503896832466,4506,True
+"held-out real fields, any training field",-1,574,0.021521592512726784,5389,True
+"held-out real fields, any training field",-1,575,0.023551667109131813,5120,True
+"held-out real fields, any training field",-1,576,0.02213827520608902,2944,True
+"held-out real fields, different snapshot only",-1,0,0.11097904294729233,886,False
+"held-out real fields, different snapshot only",-1,1,0.10920087993144989,1546,False
+"held-out real fields, different snapshot only",-1,2,0.10580471158027649,4357,False
+"held-out real fields, different snapshot only",-1,3,0.10281795263290405,5395,False
+"held-out real fields, different snapshot only",-1,4,0.11005400866270065,5250,False
+"held-out real fields, different snapshot only",-1,5,0.10593903809785843,2184,False
+"held-out real fields, different snapshot only",-1,6,0.10569080710411072,242,False
+"held-out real fields, different snapshot only",-1,7,0.11302239447832108,2993,False
+"held-out real fields, different snapshot only",-1,8,0.11101506650447845,248,False
+"held-out real fields, different snapshot only",-1,9,0.1093490868806839,2082,False
+"held-out real fields, different snapshot only",-1,10,0.10011152178049088,2365,False
+"held-out real fields, different snapshot only",-1,11,0.10567500442266464,2732,False
+"held-out real fields, different snapshot only",-1,12,0.11677433550357819,1953,False
+"held-out real fields, different snapshot only",-1,13,0.1087750643491745,5349,False
+"held-out real fields, different snapshot only",-1,14,0.10868941992521286,2178,False
+"held-out real fields, different snapshot only",-1,15,0.10381139069795609,2128,False
+"held-out real fields, different snapshot only",-1,16,0.10768882185220718,5776,False
+"held-out real fields, different snapshot only",-1,17,0.11052894592285156,5152,False
+"held-out real fields, different snapshot only",-1,18,0.10603931546211243,2235,False
+"held-out real fields, different snapshot only",-1,19,0.11029975861310959,2128,False
+"held-out real fields, different snapshot only",-1,20,0.1183105856180191,5542,False
+"held-out real fields, different snapshot only",-1,21,0.10867545008659363,2640,False
+"held-out real fields, different snapshot only",-1,22,0.10449071228504181,2335,False
+"held-out real fields, different snapshot only",-1,23,0.10575830191373825,5204,False
+"held-out real fields, different snapshot only",-1,24,0.10878576338291168,3974,False
+"held-out real fields, different snapshot only",-1,25,0.11031582206487656,392,False
+"held-out real fields, different snapshot only",-1,26,0.12235695868730545,937,False
+"held-out real fields, different snapshot only",-1,27,0.10263369977474213,4301,False
+"held-out real fields, different snapshot only",-1,28,0.10357418656349182,1931,False
+"held-out real fields, different snapshot only",-1,29,0.10953405499458313,3521,False
+"held-out real fields, different snapshot only",-1,30,0.10920273512601852,1053,False
+"held-out real fields, different snapshot only",-1,31,0.11098041385412216,1037,False
+"held-out real fields, different snapshot only",-1,32,0.11054039001464844,1682,False
+"held-out real fields, different snapshot only",-1,33,0.11435696482658386,5766,False
+"held-out real fields, different snapshot only",-1,34,0.110343798995018,3759,False
+"held-out real fields, different snapshot only",-1,35,0.10679642856121063,340,False
+"held-out real fields, different snapshot only",-1,36,0.11180095374584198,4555,False
+"held-out real fields, different snapshot only",-1,37,0.10714936256408691,5336,False
+"held-out real fields, different snapshot only",-1,38,0.1028725802898407,2061,False
+"held-out real fields, different snapshot only",-1,39,0.10653119534254074,5379,False
+"held-out real fields, different snapshot only",-1,40,0.11540676653385162,5306,False
+"held-out real fields, different snapshot only",-1,41,0.11433837562799454,4026,False
+"held-out real fields, different snapshot only",-1,42,0.10546838492155075,2235,False
+"held-out real fields, different snapshot only",-1,43,0.11039011925458908,3411,False
+"held-out real fields, different snapshot only",-1,44,0.10984227061271667,2182,False
+"held-out real fields, different snapshot only",-1,45,0.10962827503681183,4486,False
+"held-out real fields, different snapshot only",-1,46,0.10122358053922653,4670,False
+"held-out real fields, different snapshot only",-1,47,0.1069711446762085,4298,False
+"held-out real fields, different snapshot only",-1,48,0.10956870764493942,5423,False
+"held-out real fields, different snapshot only",-1,49,0.10789399594068527,4979,False
+"held-out real fields, different snapshot only",-1,50,0.1076507493853569,1011,False
+"held-out real fields, different snapshot only",-1,51,0.10306131839752197,2408,False
+"held-out real fields, different snapshot only",-1,52,0.10445098578929901,4811,False
+"held-out real fields, different snapshot only",-1,53,0.12019866704940796,5264,False
+"held-out real fields, different snapshot only",-1,54,0.10350282490253448,889,False
+"held-out real fields, different snapshot only",-1,55,0.11330369859933853,4445,False
+"held-out real fields, different snapshot only",-1,56,0.11604350805282593,1390,False
+"held-out real fields, different snapshot only",-1,57,0.10463011264801025,5203,False
+"held-out real fields, different snapshot only",-1,58,0.10982614755630493,4020,False
+"held-out real fields, different snapshot only",-1,59,0.10953591018915176,3986,False
+"held-out real fields, different snapshot only",-1,60,0.1098247617483139,5626,False
+"held-out real fields, different snapshot only",-1,61,0.10911696404218674,3515,False
+"held-out real fields, different snapshot only",-1,62,0.10701040923595428,4355,False
+"held-out real fields, different snapshot only",-1,63,0.10170591622591019,5609,False
+"held-out real fields, different snapshot only",-1,64,0.10730134695768356,4486,False
+"held-out real fields, different snapshot only",-1,65,0.1058989018201828,1831,False
+"held-out real fields, different snapshot only",-1,66,0.10904736816883087,5354,False
+"held-out real fields, different snapshot only",-1,67,0.11351076513528824,5438,False
+"held-out real fields, different snapshot only",-1,68,0.1039823666214943,2409,False
+"held-out real fields, different snapshot only",-1,69,0.1146160140633583,3193,False
+"held-out real fields, different snapshot only",-1,70,0.10551013052463531,2409,False
+"held-out real fields, different snapshot only",-1,71,0.11035389453172684,4857,False
+"held-out real fields, different snapshot only",-1,72,0.10304707288742065,1182,False
+"held-out real fields, different snapshot only",-1,73,0.11508399248123169,3872,False
+"held-out real fields, different snapshot only",-1,74,0.11633621901273727,1026,False
+"held-out real fields, different snapshot only",-1,75,0.11740624904632568,1741,False
+"held-out real fields, different snapshot only",-1,76,0.11373703181743622,1355,False
+"held-out real fields, different snapshot only",-1,77,0.11775575578212738,2560,False
+"held-out real fields, different snapshot only",-1,78,0.11256697028875351,346,False
+"held-out real fields, different snapshot only",-1,79,0.11479470133781433,706,False
+"held-out real fields, different snapshot only",-1,80,0.1135348379611969,3516,False
+"held-out real fields, different snapshot only",-1,81,0.09889131784439087,2472,False
+"held-out real fields, different snapshot only",-1,82,0.11838798969984055,1968,False
+"held-out real fields, different snapshot only",-1,83,0.11965766549110413,2848,False
+"held-out real fields, different snapshot only",-1,84,0.10868243873119354,536,False
+"held-out real fields, different snapshot only",-1,85,0.10950125008821487,2127,False
+"held-out real fields, different snapshot only",-1,86,0.10369431972503662,2418,False
+"held-out real fields, different snapshot only",-1,87,0.1076667308807373,1620,False
+"held-out real fields, different snapshot only",-1,88,0.10757549852132797,4280,False
+"held-out real fields, different snapshot only",-1,89,0.11044099181890488,5747,False
+"held-out real fields, different snapshot only",-1,90,0.11642797291278839,5451,False
+"held-out real fields, different snapshot only",-1,91,0.11503869295120239,4761,False
+"held-out real fields, different snapshot only",-1,92,0.1122964397072792,2225,False
+"held-out real fields, different snapshot only",-1,93,0.10734236985445023,4629,False
+"held-out real fields, different snapshot only",-1,94,0.12047875672578812,1070,False
+"held-out real fields, different snapshot only",-1,95,0.09944401681423187,4138,False
+"held-out real fields, different snapshot only",-1,96,0.11486434191465378,379,False
+"held-out real fields, different snapshot only",-1,97,0.11015880852937698,578,False
+"held-out real fields, different snapshot only",-1,98,0.10767378658056259,1681,False
+"held-out real fields, different snapshot only",-1,99,0.11214310675859451,590,False
+"held-out real fields, different snapshot only",-1,100,0.10894196480512619,2129,False
+"held-out real fields, different snapshot only",-1,101,0.10669117420911789,2780,False
+"held-out real fields, different snapshot only",-1,102,0.11114536970853806,4346,False
+"held-out real fields, different snapshot only",-1,103,0.0967305526137352,530,False
+"held-out real fields, different snapshot only",-1,104,0.11104924976825714,4488,False
+"held-out real fields, different snapshot only",-1,105,0.1055552065372467,3156,False
+"held-out real fields, different snapshot only",-1,106,0.10879367589950562,1056,False
+"held-out real fields, different snapshot only",-1,107,0.11838456988334656,1332,False
+"held-out real fields, different snapshot only",-1,108,0.11172442138195038,5151,False
+"held-out real fields, different snapshot only",-1,109,0.11760609596967697,5449,False
+"held-out real fields, different snapshot only",-1,110,0.11040890961885452,3836,False
+"held-out real fields, different snapshot only",-1,111,0.10246837884187698,1173,False
+"held-out real fields, different snapshot only",-1,112,0.10832981765270233,1851,False
+"held-out real fields, different snapshot only",-1,113,0.10624338686466217,3757,False
+"held-out real fields, different snapshot only",-1,114,0.10273473709821701,2893,False
+"held-out real fields, different snapshot only",-1,115,0.11127369850873947,2632,False
+"held-out real fields, different snapshot only",-1,116,0.10868708789348602,5605,False
+"held-out real fields, different snapshot only",-1,117,0.10784520208835602,2780,False
+"held-out real fields, different snapshot only",-1,118,0.10915359854698181,952,False
+"held-out real fields, different snapshot only",-1,119,0.11455240845680237,3808,False
+"held-out real fields, different snapshot only",-1,120,0.11097676306962967,4579,False
+"held-out real fields, different snapshot only",-1,121,0.10865449160337448,4615,False
+"held-out real fields, different snapshot only",-1,122,0.10859252512454987,4027,False
+"held-out real fields, different snapshot only",-1,123,0.1079624593257904,2127,False
+"held-out real fields, different snapshot only",-1,124,0.10353459417819977,522,False
+"held-out real fields, different snapshot only",-1,125,0.1127704605460167,1460,False
+"held-out real fields, different snapshot only",-1,126,0.09773045778274536,3155,False
+"held-out real fields, different snapshot only",-1,127,0.1132652759552002,3410,False
+"held-out real fields, different snapshot only",-1,128,0.10768646746873856,1000,False
+"held-out real fields, different snapshot only",-1,129,0.10981738567352295,2180,False
+"held-out real fields, different snapshot only",-1,130,0.10702412575483322,2472,False
+"held-out real fields, different snapshot only",-1,131,0.10861815512180328,3758,False
+"held-out real fields, different snapshot only",-1,132,0.10798542946577072,4916,False
+"held-out real fields, different snapshot only",-1,133,0.11185480654239655,692,False
+"held-out real fields, different snapshot only",-1,134,0.11438041925430298,2779,False
+"held-out real fields, different snapshot only",-1,135,0.10906779021024704,4617,False
+"held-out real fields, different snapshot only",-1,136,0.11713696271181107,4744,False
+"held-out real fields, different snapshot only",-1,137,0.10501106083393097,3518,False
+"held-out real fields, different snapshot only",-1,138,0.10241205245256424,5394,False
+"held-out real fields, different snapshot only",-1,139,0.11047352105379105,3834,False
+"held-out real fields, different snapshot only",-1,140,0.11565426737070084,1694,False
+"held-out real fields, different snapshot only",-1,141,0.11065616458654404,533,False
+"held-out real fields, different snapshot only",-1,142,0.10801448673009872,3757,False
+"held-out real fields, different snapshot only",-1,143,0.10960518568754196,4776,False
+"held-out real fields, different snapshot only",-1,144,0.10816524922847748,652,False
+"held-out real fields, different snapshot only",-1,145,0.11113079637289047,472,False
+"held-out real fields, different snapshot only",-1,146,0.11081475019454956,1052,False
+"held-out real fields, different snapshot only",-1,147,0.11028553545475006,689,False
+"held-out real fields, different snapshot only",-1,148,0.1049223393201828,2410,False
+"held-out real fields, different snapshot only",-1,149,0.12031397968530655,5378,False
+"held-out real fields, different snapshot only",-1,150,0.1127614825963974,2127,False
+"held-out real fields, different snapshot only",-1,151,0.11105015873908997,1266,False
+"held-out real fields, different snapshot only",-1,152,0.11474355310201645,3328,False
+"held-out real fields, different snapshot only",-1,153,0.10784003883600235,3672,False
+"held-out real fields, different snapshot only",-1,154,0.10965550690889359,3828,False
+"held-out real fields, different snapshot only",-1,155,0.10680685192346573,4359,False
+"held-out real fields, different snapshot only",-1,156,0.11065753549337387,1946,False
+"held-out real fields, different snapshot only",-1,157,0.10216020792722702,5565,False
+"held-out real fields, different snapshot only",-1,158,0.11504044383764267,4545,False
+"held-out real fields, different snapshot only",-1,159,0.10995417088270187,5338,False
+"held-out real fields, different snapshot only",-1,160,0.10838306695222855,1975,False
+"held-out real fields, different snapshot only",-1,161,0.10683290660381317,1909,False
+"held-out real fields, different snapshot only",-1,162,0.1042569950222969,2574,False
+"held-out real fields, different snapshot only",-1,163,0.11517103016376495,1694,False
+"held-out real fields, different snapshot only",-1,164,0.11752645671367645,3305,False
+"held-out real fields, different snapshot only",-1,165,0.10948877036571503,17,False
+"held-out real fields, different snapshot only",-1,166,0.10671725869178772,3991,False
+"held-out real fields, different snapshot only",-1,167,0.10644469410181046,2837,False
+"held-out real fields, different snapshot only",-1,168,0.10858459770679474,4239,False
+"held-out real fields, different snapshot only",-1,169,0.1058439239859581,1059,False
+"held-out real fields, different snapshot only",-1,170,0.10863259434700012,70,False
+"held-out real fields, different snapshot only",-1,171,0.11675006151199341,4639,False
+"held-out real fields, different snapshot only",-1,172,0.10874015837907791,5368,False
+"held-out real fields, different snapshot only",-1,173,0.11010458320379257,3832,False
+"held-out real fields, different snapshot only",-1,174,0.10904690623283386,4763,False
+"held-out real fields, different snapshot only",-1,175,0.10914339870214462,3684,False
+"held-out real fields, different snapshot only",-1,176,0.10946889221668243,5276,False
+"held-out real fields, different snapshot only",-1,177,0.10511606931686401,4818,False
+"held-out real fields, different snapshot only",-1,178,0.10199659317731857,2472,False
+"held-out real fields, different snapshot only",-1,179,0.10755950212478638,5357,False
+"held-out real fields, different snapshot only",-1,180,0.11240365356206894,3114,False
+"held-out real fields, different snapshot only",-1,181,0.10330900549888611,5351,False
+"held-out real fields, different snapshot only",-1,182,0.11271344870328903,1564,False
+"held-out real fields, different snapshot only",-1,183,0.12043842673301697,4680,False
+"held-out real fields, different snapshot only",-1,184,0.10301711410284042,2472,False
+"held-out real fields, different snapshot only",-1,185,0.10941432416439056,770,False
+"held-out real fields, different snapshot only",-1,186,0.10291340202093124,4743,False
+"held-out real fields, different snapshot only",-1,187,0.1104208305478096,4459,False
+"held-out real fields, different snapshot only",-1,188,0.1178150475025177,5190,False
+"held-out real fields, different snapshot only",-1,189,0.10392151027917862,3717,False
+"held-out real fields, different snapshot only",-1,190,0.11075582355260849,560,False
+"held-out real fields, different snapshot only",-1,191,0.1165839210152626,2981,False
+"held-out real fields, different snapshot only",-1,192,0.11943625658750534,2013,False
+"held-out real fields, different snapshot only",-1,193,0.10834944248199463,5542,False
+"held-out real fields, different snapshot only",-1,194,0.11115265637636185,976,False
+"held-out real fields, different snapshot only",-1,195,0.09930803626775742,3309,False
+"held-out real fields, different snapshot only",-1,196,0.10152710974216461,5299,False
+"held-out real fields, different snapshot only",-1,197,0.11211466789245605,936,False
+"held-out real fields, different snapshot only",-1,198,0.11135826259851456,2019,False
+"held-out real fields, different snapshot only",-1,199,0.10508524626493454,4828,False
+"held-out real fields, different snapshot only",-1,200,0.11430384963750839,5150,False
+"held-out real fields, different snapshot only",-1,201,0.11716935783624649,3723,False
+"held-out real fields, different snapshot only",-1,202,0.10343629866838455,1929,False
+"held-out real fields, different snapshot only",-1,203,0.10307949036359787,2235,False
+"held-out real fields, different snapshot only",-1,204,0.11269009113311768,5336,False
+"held-out real fields, different snapshot only",-1,205,0.1008438840508461,3615,False
+"held-out real fields, different snapshot only",-1,206,0.11762158572673798,2400,False
+"held-out real fields, different snapshot only",-1,207,0.1121426522731781,5469,False
+"held-out real fields, different snapshot only",-1,208,0.11009355634450912,5297,False
+"held-out real fields, different snapshot only",-1,209,0.11291532218456268,5198,False
+"held-out real fields, different snapshot only",-1,210,0.10884390026330948,3522,False
+"held-out real fields, different snapshot only",-1,211,0.11312086135149002,2778,False
+"held-out real fields, different snapshot only",-1,212,0.10869081318378448,3517,False
+"held-out real fields, different snapshot only",-1,213,0.10908912867307663,4534,False
+"held-out real fields, different snapshot only",-1,214,0.10271552205085754,621,False
+"held-out real fields, different snapshot only",-1,215,0.10810768604278564,3757,False
+"held-out real fields, different snapshot only",-1,216,0.11201667040586472,275,False
+"held-out real fields, different snapshot only",-1,217,0.10954838246107101,290,False
+"held-out real fields, different snapshot only",-1,218,0.11095487326383591,318,False
+"held-out real fields, different snapshot only",-1,219,0.1145431324839592,1072,False
+"held-out real fields, different snapshot only",-1,220,0.10402178019285202,2360,False
+"held-out real fields, different snapshot only",-1,221,0.10546886920928955,10,False
+"held-out real fields, different snapshot only",-1,222,0.11189371347427368,318,False
+"held-out real fields, different snapshot only",-1,223,0.10979756712913513,5381,False
+"held-out real fields, different snapshot only",-1,224,0.10451880097389221,1389,False
+"held-out real fields, different snapshot only",-1,225,0.11422500759363174,3393,False
+"held-out real fields, different snapshot only",-1,226,0.11106747388839722,1100,False
+"held-out real fields, different snapshot only",-1,227,0.11116813123226166,1851,False
+"held-out real fields, different snapshot only",-1,228,0.11639884114265442,5681,False
+"held-out real fields, different snapshot only",-1,229,0.1090766042470932,5747,False
+"held-out real fields, different snapshot only",-1,230,0.10737018287181854,5125,False
+"held-out real fields, different snapshot only",-1,231,0.10735132545232773,4020,False
+"held-out real fields, different snapshot only",-1,232,0.09963010996580124,2273,False
+"held-out real fields, different snapshot only",-1,233,0.1081671193242073,5203,False
+"held-out real fields, different snapshot only",-1,234,0.11056739836931229,1317,False
+"held-out real fields, different snapshot only",-1,235,0.10432153940200806,2415,False
+"held-out real fields, different snapshot only",-1,236,0.11165555566549301,4827,False
+"held-out real fields, different snapshot only",-1,237,0.10910443961620331,3829,False
+"held-out real fields, different snapshot only",-1,238,0.10867870599031448,3868,False
+"held-out real fields, different snapshot only",-1,239,0.11263618618249893,4671,False
+"held-out real fields, different snapshot only",-1,240,0.11492644995450974,2321,False
+"held-out real fields, different snapshot only",-1,241,0.1122184470295906,1197,False
+"held-out real fields, different snapshot only",-1,242,0.1076427549123764,5259,False
+"held-out real fields, different snapshot only",-1,243,0.11571289598941803,1620,False
+"held-out real fields, different snapshot only",-1,244,0.10837792605161667,4027,False
+"held-out real fields, different snapshot only",-1,245,0.11011331528425217,1149,False
+"held-out real fields, different snapshot only",-1,246,0.10170242935419083,3976,False
+"held-out real fields, different snapshot only",-1,247,0.08979656547307968,2468,False
+"held-out real fields, different snapshot only",-1,248,0.10932964086532593,4711,False
+"held-out real fields, different snapshot only",-1,249,0.1026243343949318,3203,False
+"held-out real fields, different snapshot only",-1,250,0.11397839337587357,3805,False
+"held-out real fields, different snapshot only",-1,251,0.11495418846607208,3285,False
+"held-out real fields, different snapshot only",-1,252,0.10791182518005371,5197,False
+"held-out real fields, different snapshot only",-1,253,0.10371822863817215,4769,False
+"held-out real fields, different snapshot only",-1,254,0.10770996659994125,2044,False
+"held-out real fields, different snapshot only",-1,255,0.11482908576726913,2282,False
+"held-out real fields, different snapshot only",-1,256,0.12120121717453003,3028,False
+"held-out real fields, different snapshot only",-1,257,0.10894150286912918,4807,False
+"held-out real fields, different snapshot only",-1,258,0.11293817311525345,518,False
+"held-out real fields, different snapshot only",-1,259,0.10827140510082245,4597,False
+"held-out real fields, different snapshot only",-1,260,0.11067674309015274,793,False
+"held-out real fields, different snapshot only",-1,261,0.10346809774637222,5419,False
+"held-out real fields, different snapshot only",-1,262,0.11257056891918182,1051,False
+"held-out real fields, different snapshot only",-1,263,0.1075449138879776,180,False
+"held-out real fields, different snapshot only",-1,264,0.10575878620147705,5292,False
+"held-out real fields, different snapshot only",-1,265,0.09606853872537613,2131,False
+"held-out real fields, different snapshot only",-1,266,0.11491059511899948,2779,False
+"held-out real fields, different snapshot only",-1,267,0.10639571398496628,1965,False
+"held-out real fields, different snapshot only",-1,268,0.10618668794631958,4878,False
+"held-out real fields, different snapshot only",-1,269,0.11312264949083328,3754,False
+"held-out real fields, different snapshot only",-1,270,0.10687648504972458,2027,False
+"held-out real fields, different snapshot only",-1,271,0.11768998205661774,5317,False
+"held-out real fields, different snapshot only",-1,272,0.10980494320392609,5350,False
+"held-out real fields, different snapshot only",-1,273,0.10954099148511887,392,False
+"held-out real fields, different snapshot only",-1,274,0.10698060691356659,2748,False
+"held-out real fields, different snapshot only",-1,275,0.11965259164571762,900,False
+"held-out real fields, different snapshot only",-1,276,0.10247726738452911,3066,False
+"held-out real fields, different snapshot only",-1,277,0.11088506132364273,5335,False
+"held-out real fields, different snapshot only",-1,278,0.10440688580274582,3925,False
+"held-out real fields, different snapshot only",-1,279,0.10637573152780533,2084,False
+"held-out real fields, different snapshot only",-1,280,0.10100986808538437,2409,False
+"held-out real fields, different snapshot only",-1,281,0.11687874048948288,5398,False
+"held-out real fields, different snapshot only",-1,282,0.10508284717798233,4842,False
+"held-out real fields, different snapshot only",-1,283,0.11133872717618942,2015,False
+"held-out real fields, different snapshot only",-1,284,0.10824055224657059,927,False
+"held-out real fields, different snapshot only",-1,285,0.10709597915410995,5379,False
+"held-out real fields, different snapshot only",-1,286,0.11035985499620438,5394,False
+"held-out real fields, different snapshot only",-1,287,0.1063043400645256,311,False
+"held-out real fields, different snapshot only",-1,288,0.10661287605762482,4877,False
+"held-out real fields, different snapshot only",-1,289,0.10794605314731598,5106,False
+"held-out real fields, different snapshot only",-1,290,0.10927454382181168,390,False
+"held-out real fields, different snapshot only",-1,291,0.10856083035469055,4428,False
+"held-out real fields, different snapshot only",-1,292,0.11151131987571716,939,False
+"held-out real fields, different snapshot only",-1,293,0.11159207671880722,5506,False
+"held-out real fields, different snapshot only",-1,294,0.10382406413555145,1931,False
+"held-out real fields, different snapshot only",-1,295,0.11095395684242249,3804,False
+"held-out real fields, different snapshot only",-1,296,0.1035531684756279,4339,False
+"held-out real fields, different snapshot only",-1,297,0.10713046789169312,3246,False
+"held-out real fields, different snapshot only",-1,298,0.1074954941868782,3237,False
+"held-out real fields, different snapshot only",-1,299,0.11412394791841507,3919,False
+"held-out real fields, different snapshot only",-1,300,0.1165691614151001,3806,False
+"held-out real fields, different snapshot only",-1,301,0.1197071373462677,244,False
+"held-out real fields, different snapshot only",-1,302,0.10375140607357025,4671,False
+"held-out real fields, different snapshot only",-1,303,0.110784150660038,3758,False
+"held-out real fields, different snapshot only",-1,304,0.10220032185316086,1182,False
+"held-out real fields, different snapshot only",-1,305,0.11999259889125824,2857,False
+"held-out real fields, different snapshot only",-1,306,0.10967212170362473,3806,False
+"held-out real fields, different snapshot only",-1,307,0.11531770974397659,1672,False
+"held-out real fields, different snapshot only",-1,308,0.11221348494291306,5335,False
+"held-out real fields, different snapshot only",-1,309,0.10660337656736374,742,False
+"held-out real fields, different snapshot only",-1,310,0.10887458175420761,4979,False
+"held-out real fields, different snapshot only",-1,311,0.114226333796978,3752,False
+"held-out real fields, different snapshot only",-1,312,0.10910629481077194,4672,False
+"held-out real fields, different snapshot only",-1,313,0.11582829803228378,3398,False
+"held-out real fields, different snapshot only",-1,314,0.11902962625026703,3768,False
+"held-out real fields, different snapshot only",-1,315,0.11095669120550156,323,False
+"held-out real fields, different snapshot only",-1,316,0.10847548395395279,2125,False
+"held-out real fields, different snapshot only",-1,317,0.1032903864979744,1173,False
+"held-out real fields, different snapshot only",-1,318,0.10883273929357529,4877,False
+"held-out real fields, different snapshot only",-1,319,0.10700000077486038,4881,False
+"held-out real fields, different snapshot only",-1,320,0.11006136983633041,2019,False
+"held-out real fields, different snapshot only",-1,321,0.11140188574790955,3004,False
+"held-out real fields, different snapshot only",-1,322,0.11289604753255844,1202,False
+"held-out real fields, different snapshot only",-1,323,0.10750678926706314,1741,False
+"held-out real fields, different snapshot only",-1,324,0.10636288672685623,4759,False
+"held-out real fields, different snapshot only",-1,325,0.1117357537150383,3685,False
+"held-out real fields, different snapshot only",-1,326,0.11173620074987411,3760,False
+"held-out real fields, different snapshot only",-1,327,0.10716164112091064,1896,False
+"held-out real fields, different snapshot only",-1,328,0.10630767792463303,2026,False
+"held-out real fields, different snapshot only",-1,329,0.10881645977497101,888,False
+"held-out real fields, different snapshot only",-1,330,0.11249995976686478,4345,False
+"held-out real fields, different snapshot only",-1,331,0.10752797871828079,3300,False
+"held-out real fields, different snapshot only",-1,332,0.10852119326591492,3135,False
+"held-out real fields, different snapshot only",-1,333,0.1058448851108551,5620,False
+"held-out real fields, different snapshot only",-1,334,0.11247026920318604,1694,False
+"held-out real fields, different snapshot only",-1,335,0.10553266853094101,3346,False
+"held-out real fields, different snapshot only",-1,336,0.1143631637096405,3204,False
+"held-out real fields, different snapshot only",-1,337,0.11164376884698868,2219,False
+"held-out real fields, different snapshot only",-1,338,0.11328449100255966,4220,False
+"held-out real fields, different snapshot only",-1,339,0.11354420334100723,4490,False
+"held-out real fields, different snapshot only",-1,340,0.1111922636628151,847,False
+"held-out real fields, different snapshot only",-1,341,0.10862188041210175,4828,False
+"held-out real fields, different snapshot only",-1,342,0.1125665232539177,3302,False
+"held-out real fields, different snapshot only",-1,343,0.10493584722280502,2634,False
+"held-out real fields, different snapshot only",-1,344,0.10817086696624756,3757,False
+"held-out real fields, different snapshot only",-1,345,0.11252965033054352,5297,False
+"held-out real fields, different snapshot only",-1,346,0.10247133672237396,5351,False
+"held-out real fields, different snapshot only",-1,347,0.1136818453669548,1741,False
+"held-out real fields, different snapshot only",-1,348,0.11094620823860168,4777,False
+"held-out real fields, different snapshot only",-1,349,0.11128097772598267,2859,False
+"held-out real fields, different snapshot only",-1,350,0.1209675744175911,5686,False
+"held-out real fields, different snapshot only",-1,351,0.10784895718097687,1073,False
+"held-out real fields, different snapshot only",-1,352,0.11148454248905182,2851,False
+"held-out real fields, different snapshot only",-1,353,0.12442374974489212,2626,False
+"held-out real fields, different snapshot only",-1,354,0.10949616134166718,5297,False
+"held-out real fields, different snapshot only",-1,355,0.10475676506757736,4846,False
+"held-out real fields, different snapshot only",-1,356,0.1056649461388588,4811,False
+"held-out real fields, different snapshot only",-1,357,0.1028558537364006,3308,False
+"held-out real fields, different snapshot only",-1,358,0.10985609143972397,5394,False
+"held-out real fields, different snapshot only",-1,359,0.10430649667978287,5776,False
+"held-out real fields, different snapshot only",-1,360,0.10896472632884979,3207,False
+"held-out real fields, different snapshot only",-1,361,0.10953683406114578,5298,False
+"held-out real fields, different snapshot only",-1,362,0.10859625041484833,2127,False
+"held-out real fields, different snapshot only",-1,363,0.11068862676620483,936,False
+"held-out real fields, different snapshot only",-1,364,0.103093720972538,5193,False
+"held-out real fields, different snapshot only",-1,365,0.11785542219877243,4628,False
+"held-out real fields, different snapshot only",-1,366,0.11619344353675842,1741,False
+"held-out real fields, different snapshot only",-1,367,0.1112636923789978,5392,False
+"held-out real fields, different snapshot only",-1,368,0.10491510480642319,2129,False
+"held-out real fields, different snapshot only",-1,369,0.10425359755754471,2869,False
+"held-out real fields, different snapshot only",-1,370,0.10976991057395935,3713,False
+"held-out real fields, different snapshot only",-1,371,0.1070997565984726,3280,False
+"held-out real fields, different snapshot only",-1,372,0.10720886290073395,1907,False
+"held-out real fields, different snapshot only",-1,373,0.10977313667535782,3215,False
+"held-out real fields, different snapshot only",-1,374,0.10523684322834015,4844,False
+"held-out real fields, different snapshot only",-1,375,0.10711440443992615,3581,False
+"held-out real fields, different snapshot only",-1,376,0.11009906977415085,2563,False
+"held-out real fields, different snapshot only",-1,377,0.11989302188158035,2385,False
+"held-out real fields, different snapshot only",-1,378,0.11152856051921844,4264,False
+"held-out real fields, different snapshot only",-1,379,0.12123879045248032,2019,False
+"held-out real fields, different snapshot only",-1,380,0.10923933982849121,1779,False
+"held-out real fields, different snapshot only",-1,381,0.1167539656162262,1128,False
+"held-out real fields, different snapshot only",-1,382,0.10514495521783829,2867,False
+"held-out real fields, different snapshot only",-1,383,0.11128643900156021,4916,False
+"held-out real fields, different snapshot only",-1,384,0.10643233358860016,5350,False
+"held-out real fields, different snapshot only",-1,385,0.10706383734941483,4510,False
+"held-out real fields, different snapshot only",-1,386,0.11092247813940048,453,False
+"held-out real fields, different snapshot only",-1,387,0.11394108831882477,3375,False
+"held-out real fields, different snapshot only",-1,388,0.11320941150188446,3712,False
+"held-out real fields, different snapshot only",-1,389,0.10705580562353134,3280,False
+"held-out real fields, different snapshot only",-1,390,0.10182924568653107,4355,False
+"held-out real fields, different snapshot only",-1,391,0.09374891966581345,3621,False
+"held-out real fields, different snapshot only",-1,392,0.1193421483039856,129,False
+"held-out real fields, different snapshot only",-1,393,0.10370407998561859,2416,False
+"held-out real fields, different snapshot only",-1,394,0.10048390924930573,5256,False
+"held-out real fields, different snapshot only",-1,395,0.11256831884384155,4894,False
+"held-out real fields, different snapshot only",-1,396,0.09945674240589142,4827,False
+"held-out real fields, different snapshot only",-1,397,0.11148181557655334,4673,False
+"held-out real fields, different snapshot only",-1,398,0.1131230965256691,1308,False
+"held-out real fields, different snapshot only",-1,399,0.11495727300643921,1891,False
+"held-out real fields, different snapshot only",-1,400,0.10652026534080505,589,False
+"held-out real fields, different snapshot only",-1,401,0.10109250247478485,3741,False
+"held-out real fields, different snapshot only",-1,402,0.10253947228193283,1037,False
+"held-out real fields, different snapshot only",-1,403,0.10781563818454742,2690,False
+"held-out real fields, different snapshot only",-1,404,0.11557678878307343,3307,False
+"held-out real fields, different snapshot only",-1,405,0.10814419388771057,3828,False
+"held-out real fields, different snapshot only",-1,406,0.10327569395303726,2869,False
+"held-out real fields, different snapshot only",-1,407,0.10460060089826584,522,False
+"held-out real fields, different snapshot only",-1,408,0.1015889048576355,11,False
+"held-out real fields, different snapshot only",-1,409,0.1086614802479744,5420,False
+"held-out real fields, different snapshot only",-1,410,0.10863026976585388,388,False
+"held-out real fields, different snapshot only",-1,411,0.11726780235767365,2024,False
+"held-out real fields, different snapshot only",-1,412,0.11119043827056885,3235,False
+"held-out real fields, different snapshot only",-1,413,0.11027635633945465,2335,False
+"held-out real fields, different snapshot only",-1,414,0.11546113342046738,3808,False
+"held-out real fields, different snapshot only",-1,415,0.1073838546872139,2522,False
+"held-out real fields, different snapshot only",-1,416,0.11581606417894363,5319,False
+"held-out real fields, different snapshot only",-1,417,0.10519500076770782,1485,False
+"held-out real fields, different snapshot only",-1,418,0.11844440549612045,2831,False
+"held-out real fields, different snapshot only",-1,419,0.10710921138525009,4926,False
+"held-out real fields, different snapshot only",-1,420,0.106035016477108,3165,False
+"held-out real fields, different snapshot only",-1,421,0.1091531366109848,654,False
+"held-out real fields, different snapshot only",-1,422,0.10346809774637222,5721,False
+"held-out real fields, different snapshot only",-1,423,0.10985977947711945,2785,False
+"held-out real fields, different snapshot only",-1,424,0.10906314849853516,2019,False
+"held-out real fields, different snapshot only",-1,425,0.10887690633535385,2700,False
+"held-out real fields, different snapshot only",-1,426,0.10735698789358139,4359,False
+"held-out real fields, different snapshot only",-1,427,0.10934815555810928,933,False
+"held-out real fields, different snapshot only",-1,428,0.10589507967233658,2748,False
+"held-out real fields, different snapshot only",-1,429,0.11354464292526245,689,False
+"held-out real fields, different snapshot only",-1,430,0.11033141613006592,1653,False
+"held-out real fields, different snapshot only",-1,431,0.11806008219718933,2511,False
+"held-out real fields, different snapshot only",-1,432,0.11493393778800964,2126,False
+"held-out real fields, different snapshot only",-1,433,0.10690394043922424,465,False
+"held-out real fields, different snapshot only",-1,434,0.10613185912370682,2466,False
+"held-out real fields, different snapshot only",-1,435,0.10735085606575012,738,False
+"held-out real fields, different snapshot only",-1,436,0.10977774858474731,4279,False
+"held-out real fields, different snapshot only",-1,437,0.1070808544754982,5395,False
+"held-out real fields, different snapshot only",-1,438,0.10998086631298065,2860,False
+"held-out real fields, different snapshot only",-1,439,0.10873737186193466,4624,False
+"held-out real fields, different snapshot only",-1,440,0.10732021182775497,2127,False
+"held-out real fields, different snapshot only",-1,441,0.10368163138628006,5194,False
+"held-out real fields, different snapshot only",-1,442,0.10528877377510071,2234,False
+"held-out real fields, different snapshot only",-1,443,0.11094529181718826,787,False
+"held-out real fields, different snapshot only",-1,444,0.10999743640422821,585,False
+"held-out real fields, different snapshot only",-1,445,0.114226333796978,3874,False
+"held-out real fields, different snapshot only",-1,446,0.11315888166427612,2125,False
+"held-out real fields, different snapshot only",-1,447,0.10209033638238907,5203,False
+"held-out real fields, different snapshot only",-1,448,0.11229418963193893,4782,False
+"held-out real fields, different snapshot only",-1,449,0.11327466368675232,1681,False
+"held-out real fields, different snapshot only",-1,450,0.11040982604026794,2049,False
+"held-out real fields, different snapshot only",-1,451,0.1069711446762085,5258,False
+"held-out real fields, different snapshot only",-1,452,0.10724189877510071,2373,False
+"held-out real fields, different snapshot only",-1,453,0.10703925788402557,2027,False
+"held-out real fields, different snapshot only",-1,454,0.10298222303390503,5522,False
+"held-out real fields, different snapshot only",-1,455,0.10403929650783539,2408,False
+"held-out real fields, different snapshot only",-1,456,0.11076678335666656,654,False
+"held-out real fields, different snapshot only",-1,457,0.10971595346927643,537,False
+"held-out real fields, different snapshot only",-1,458,0.10644850134849548,1186,False
+"held-out real fields, different snapshot only",-1,459,0.1076267659664154,3712,False
+"held-out real fields, different snapshot only",-1,460,0.11098770797252655,3531,False
+"held-out real fields, different snapshot only",-1,461,0.11711838096380234,2369,False
+"held-out real fields, different snapshot only",-1,462,0.1151745468378067,1026,False
+"held-out real fields, different snapshot only",-1,463,0.10551780462265015,2868,False
+"held-out real fields, different snapshot only",-1,464,0.10319283604621887,689,False
+"held-out real fields, different snapshot only",-1,465,0.1100788414478302,612,False
+"held-out real fields, different snapshot only",-1,466,0.11319957673549652,2219,False
+"held-out real fields, different snapshot only",-1,467,0.11017993837594986,324,False
+"held-out real fields, different snapshot only",-1,468,0.10920876264572144,2129,False
+"held-out real fields, different snapshot only",-1,469,0.10663565993309021,5292,False
+"held-out real fields, different snapshot only",-1,470,0.1025700643658638,2466,False
+"held-out real fields, different snapshot only",-1,471,0.10645515471696854,2732,False
+"held-out real fields, different snapshot only",-1,472,0.10119207948446274,5476,False
+"held-out real fields, different snapshot only",-1,473,0.10617905855178833,4759,False
+"held-out real fields, different snapshot only",-1,474,0.10091011226177216,4346,False
+"held-out real fields, different snapshot only",-1,475,0.10332958400249481,3132,False
+"held-out real fields, different snapshot only",-1,476,0.11024239659309387,384,False
+"held-out real fields, different snapshot only",-1,477,0.1134420782327652,5194,False
+"held-out real fields, different snapshot only",-1,478,0.10752138495445251,4381,False
+"held-out real fields, different snapshot only",-1,479,0.10372310876846313,1014,False
+"held-out real fields, different snapshot only",-1,480,0.10862281173467636,2953,False
+"held-out real fields, different snapshot only",-1,481,0.10910165309906006,5412,False
+"held-out real fields, different snapshot only",-1,482,0.1054563894867897,3827,False
+"held-out real fields, different snapshot only",-1,483,0.11362084001302719,1732,False
+"held-out real fields, different snapshot only",-1,484,0.10783393681049347,589,False
+"held-out real fields, different snapshot only",-1,485,0.1109033152461052,1247,False
+"held-out real fields, different snapshot only",-1,486,0.11679687350988388,5635,False
+"held-out real fields, different snapshot only",-1,487,0.11409200727939606,1831,False
+"held-out real fields, different snapshot only",-1,488,0.11088141053915024,2019,False
+"held-out real fields, different snapshot only",-1,489,0.10627958178520203,1413,False
+"held-out real fields, different snapshot only",-1,490,0.10500189661979675,3227,False
+"held-out real fields, different snapshot only",-1,491,0.10417541116476059,2730,False
+"held-out real fields, different snapshot only",-1,492,0.11530936509370804,5329,False
+"held-out real fields, different snapshot only",-1,493,0.10393952578306198,2365,False
+"held-out real fields, different snapshot only",-1,494,0.10896007716655731,1464,False
+"held-out real fields, different snapshot only",-1,495,0.11014364659786224,3393,False
+"held-out real fields, different snapshot only",-1,496,0.10889317840337753,5355,False
+"held-out real fields, different snapshot only",-1,497,0.1051093265414238,1145,False
+"held-out real fields, different snapshot only",-1,498,0.10899630934000015,5147,False
+"held-out real fields, different snapshot only",-1,499,0.10997810959815979,1829,False
+"held-out real fields, different snapshot only",-1,500,0.10569080710411072,648,False
+"held-out real fields, different snapshot only",-1,501,0.10625815391540527,2861,False
+"held-out real fields, different snapshot only",-1,502,0.1064114049077034,3517,False
+"held-out real fields, different snapshot only",-1,503,0.1115272045135498,1317,False
+"held-out real fields, different snapshot only",-1,504,0.10721641033887863,5256,False
+"held-out real fields, different snapshot only",-1,505,0.11462529003620148,944,False
+"held-out real fields, different snapshot only",-1,506,0.11876358836889267,3305,False
+"held-out real fields, different snapshot only",-1,507,0.11282429844141006,3758,False
+"held-out real fields, different snapshot only",-1,508,0.11407604068517685,3174,False
+"held-out real fields, different snapshot only",-1,509,0.10366698354482651,4708,False
+"held-out real fields, different snapshot only",-1,510,0.10143036395311356,3156,False
+"held-out real fields, different snapshot only",-1,511,0.10105545073747635,5564,False
+"held-out real fields, different snapshot only",-1,512,0.09764912724494934,3833,False
+"held-out real fields, different snapshot only",-1,513,0.10572528094053268,2810,False
+"held-out real fields, different snapshot only",-1,514,0.1094772145152092,2365,False
+"held-out real fields, different snapshot only",-1,515,0.10581188648939133,4590,False
+"held-out real fields, different snapshot only",-1,516,0.10141090303659439,4232,False
+"held-out real fields, different snapshot only",-1,517,0.108463816344738,2182,False
+"held-out real fields, different snapshot only",-1,518,0.10690489411354065,881,False
+"held-out real fields, different snapshot only",-1,519,0.11628008633852005,2082,False
+"held-out real fields, different snapshot only",-1,520,0.10709360986948013,2427,False
+"held-out real fields, different snapshot only",-1,521,0.11275654286146164,3521,False
+"held-out real fields, different snapshot only",-1,522,0.10420455783605576,1412,False
+"held-out real fields, different snapshot only",-1,523,0.10952527821063995,2990,False
+"held-out real fields, different snapshot only",-1,524,0.10154156386852264,4606,False
+"held-out real fields, different snapshot only",-1,525,0.11213317513465881,1073,False
+"held-out real fields, different snapshot only",-1,526,0.11310296505689621,2427,False
+"held-out real fields, different snapshot only",-1,527,0.10931992530822754,4719,False
+"held-out real fields, different snapshot only",-1,528,0.10420212894678116,5201,False
+"held-out real fields, different snapshot only",-1,529,0.10908495634794235,3532,False
+"held-out real fields, different snapshot only",-1,530,0.10669686645269394,643,False
+"held-out real fields, different snapshot only",-1,531,0.11379975825548172,2493,False
+"held-out real fields, different snapshot only",-1,532,0.10630529373884201,5203,False
+"held-out real fields, different snapshot only",-1,533,0.10534835606813431,3942,False
+"held-out real fields, different snapshot only",-1,534,0.10494838654994965,4570,False
+"held-out real fields, different snapshot only",-1,535,0.10692761093378067,5576,False
+"held-out real fields, different snapshot only",-1,536,0.10665511339902878,4671,False
+"held-out real fields, different snapshot only",-1,537,0.10589125752449036,954,False
+"held-out real fields, different snapshot only",-1,538,0.11211783438920975,5336,False
+"held-out real fields, different snapshot only",-1,539,0.10495368391275406,1766,False
+"held-out real fields, different snapshot only",-1,540,0.11193621903657913,3265,False
+"held-out real fields, different snapshot only",-1,541,0.10726407915353775,4672,False
+"held-out real fields, different snapshot only",-1,542,0.11245136708021164,2852,False
+"held-out real fields, different snapshot only",-1,543,0.09647069871425629,2469,False
+"held-out real fields, different snapshot only",-1,544,0.11233924329280853,246,False
+"held-out real fields, different snapshot only",-1,545,0.10395656526088715,1519,False
+"held-out real fields, different snapshot only",-1,546,0.1032688319683075,4708,False
+"held-out real fields, different snapshot only",-1,547,0.10037052631378174,3977,False
+"held-out real fields, different snapshot only",-1,548,0.12052243947982788,2151,False
+"held-out real fields, different snapshot only",-1,549,0.11751440167427063,1066,False
+"held-out real fields, different snapshot only",-1,550,0.11690818518400192,4222,False
+"held-out real fields, different snapshot only",-1,551,0.1134336069226265,4532,False
+"held-out real fields, different snapshot only",-1,552,0.11177424341440201,3987,False
+"held-out real fields, different snapshot only",-1,553,0.10683385282754898,2025,False
+"held-out real fields, different snapshot only",-1,554,0.10162825137376785,1418,False
+"held-out real fields, different snapshot only",-1,555,0.11626137048006058,1333,False
+"held-out real fields, different snapshot only",-1,556,0.10776352137327194,4729,False
+"held-out real fields, different snapshot only",-1,557,0.10720838606357574,384,False
+"held-out real fields, different snapshot only",-1,558,0.11553386598825455,3520,False
+"held-out real fields, different snapshot only",-1,559,0.11360480636358261,4485,False
+"held-out real fields, different snapshot only",-1,560,0.10711109638214111,3704,False
+"held-out real fields, different snapshot only",-1,561,0.10441900789737701,1412,False
+"held-out real fields, different snapshot only",-1,562,0.10823868215084076,537,False
+"held-out real fields, different snapshot only",-1,563,0.10595623403787613,4242,False
+"held-out real fields, different snapshot only",-1,564,0.11798632144927979,2581,False
+"held-out real fields, different snapshot only",-1,565,0.11122456938028336,4106,False
+"held-out real fields, different snapshot only",-1,566,0.11049596965312958,390,False
+"held-out real fields, different snapshot only",-1,567,0.10447084903717041,3929,False
+"held-out real fields, different snapshot only",-1,568,0.11409999430179596,1620,False
+"held-out real fields, different snapshot only",-1,569,0.10072135925292969,5256,False
+"held-out real fields, different snapshot only",-1,570,0.11612112075090408,2701,False
+"held-out real fields, different snapshot only",-1,571,0.11846406012773514,1135,False
+"held-out real fields, different snapshot only",-1,572,0.11138507723808289,2755,False
+"held-out real fields, different snapshot only",-1,573,0.10092465579509735,3263,False
+"held-out real fields, different snapshot only",-1,574,0.10866520553827286,3074,False
+"held-out real fields, different snapshot only",-1,575,0.10545207560062408,2042,False
+"held-out real fields, different snapshot only",-1,576,0.11071605980396271,2797,False
+cosine model samples (DDPM 200 clipped),0,0,0.13480611145496368,1008,False
+cosine model samples (DDPM 200 clipped),0,1,0.1584317833185196,2756,False
+cosine model samples (DDPM 200 clipped),0,2,0.17392835021018982,4989,False
+cosine model samples (DDPM 200 clipped),0,3,0.1422765552997589,5703,False
+cosine model samples (DDPM 200 clipped),0,4,0.14362402260303497,3710,False
+cosine model samples (DDPM 200 clipped),0,5,0.14320266246795654,2842,False
+cosine model samples (DDPM 200 clipped),0,6,0.1451808363199234,4881,False
+cosine model samples (DDPM 200 clipped),0,7,0.15479931235313416,4382,False
+cosine model samples (DDPM 200 clipped),0,8,0.1544533520936966,500,False
+cosine model samples (DDPM 200 clipped),0,9,0.1449439376592636,1355,False
+cosine model samples (DDPM 200 clipped),0,10,0.142961785197258,4349,False
+cosine model samples (DDPM 200 clipped),0,11,0.1602463573217392,3507,False
+cosine model samples (DDPM 200 clipped),0,12,0.17339065670967102,938,False
+cosine model samples (DDPM 200 clipped),0,13,0.1437913030385971,2746,False
+cosine model samples (DDPM 200 clipped),0,14,0.1513967663049698,3711,False
+cosine model samples (DDPM 200 clipped),0,15,0.13863256573677063,3935,False
+cosine model samples (DDPM 200 clipped),0,16,0.1429164707660675,4812,False
+cosine model samples (DDPM 200 clipped),0,17,0.15168364346027374,1090,False
+cosine model samples (DDPM 200 clipped),0,18,0.1557198464870453,1196,False
+cosine model samples (DDPM 200 clipped),0,19,0.16065262258052826,4827,False
+cosine model samples (DDPM 200 clipped),0,20,0.1611631065607071,2253,False
+cosine model samples (DDPM 200 clipped),0,21,0.16286711394786835,5350,False
+cosine model samples (DDPM 200 clipped),0,22,0.13771945238113403,2235,False
+cosine model samples (DDPM 200 clipped),0,23,0.15616543591022491,2405,False
+cosine model samples (DDPM 200 clipped),0,24,0.1430584043264389,642,False
+cosine model samples (DDPM 200 clipped),0,25,0.12187620997428894,3925,False
+cosine model samples (DDPM 200 clipped),0,26,0.14618688821792603,3385,False
+cosine model samples (DDPM 200 clipped),0,27,0.15493133664131165,2750,False
+cosine model samples (DDPM 200 clipped),0,28,0.140901118516922,2699,False
+cosine model samples (DDPM 200 clipped),0,29,0.15372619032859802,3002,False
+cosine model samples (DDPM 200 clipped),0,30,0.17117010056972504,3410,False
+cosine model samples (DDPM 200 clipped),0,31,0.16114363074302673,4188,False
+cosine model samples (DDPM 200 clipped),0,32,0.1617652326822281,4298,False
+cosine model samples (DDPM 200 clipped),0,33,0.14891372621059418,4378,False
+cosine model samples (DDPM 200 clipped),0,34,0.17262950539588928,198,False
+cosine model samples (DDPM 200 clipped),0,35,0.15288470685482025,3334,False
+cosine model samples (DDPM 200 clipped),0,36,0.14041322469711304,3349,False
+cosine model samples (DDPM 200 clipped),0,37,0.14091333746910095,2409,False
+cosine model samples (DDPM 200 clipped),0,38,0.15585239231586456,5571,False
+cosine model samples (DDPM 200 clipped),0,39,0.15102793276309967,2706,False
+cosine model samples (DDPM 200 clipped),0,40,0.1399666666984558,3757,False
+cosine model samples (DDPM 200 clipped),0,41,0.156596839427948,4865,False
+cosine model samples (DDPM 200 clipped),0,42,0.16114771366119385,1248,False
+cosine model samples (DDPM 200 clipped),0,43,0.1327553242444992,2405,False
+cosine model samples (DDPM 200 clipped),0,44,0.14966630935668945,4718,False
+cosine model samples (DDPM 200 clipped),0,45,0.13992543518543243,847,False
+cosine model samples (DDPM 200 clipped),0,46,0.1362408548593521,3807,False
+cosine model samples (DDPM 200 clipped),0,47,0.14791184663772583,3524,False
+cosine model samples (DDPM 200 clipped),0,48,0.159322127699852,5652,False
+cosine model samples (DDPM 200 clipped),0,49,0.14603100717067719,3757,False
+cosine model samples (DDPM 200 clipped),0,50,0.1625797301530838,562,False
+cosine model samples (DDPM 200 clipped),0,51,0.1558855026960373,1252,False
+cosine model samples (DDPM 200 clipped),0,52,0.13647839426994324,879,False
+cosine model samples (DDPM 200 clipped),0,53,0.14319276809692383,3991,False
+cosine model samples (DDPM 200 clipped),0,54,0.13249851763248444,3994,False
+cosine model samples (DDPM 200 clipped),0,55,0.1472730189561844,4976,False
+cosine model samples (DDPM 200 clipped),0,56,0.14416635036468506,468,False
+cosine model samples (DDPM 200 clipped),0,57,0.15721483528614044,2756,False
+cosine model samples (DDPM 200 clipped),0,58,0.13575074076652527,4239,False
+cosine model samples (DDPM 200 clipped),0,59,0.14736132323741913,2993,False
+cosine model samples (DDPM 200 clipped),0,60,0.14106804132461548,4588,False
+cosine model samples (DDPM 200 clipped),0,61,0.1425725668668747,1641,False
+cosine model samples (DDPM 200 clipped),0,62,0.1479145884513855,2596,False
+cosine model samples (DDPM 200 clipped),0,63,0.1653165966272354,5085,False
+cosine model samples (DDPM 200 clipped),0,64,0.1423853635787964,4244,False
+cosine model samples (DDPM 200 clipped),0,65,0.14602026343345642,584,False
+cosine model samples (DDPM 200 clipped),0,66,0.15415258705615997,1357,False
+cosine model samples (DDPM 200 clipped),0,67,0.15093372762203217,5706,False
+cosine model samples (DDPM 200 clipped),0,68,0.17562174797058105,4008,False
+cosine model samples (DDPM 200 clipped),0,69,0.15305641293525696,4189,False
+cosine model samples (DDPM 200 clipped),0,70,0.14826557040214539,1146,False
+cosine model samples (DDPM 200 clipped),0,71,0.14996391534805298,4279,False
+cosine model samples (DDPM 200 clipped),0,72,0.15055570006370544,1341,False
+cosine model samples (DDPM 200 clipped),0,73,0.17244499921798706,4178,False
+cosine model samples (DDPM 200 clipped),0,74,0.1590566635131836,134,False
+cosine model samples (DDPM 200 clipped),0,75,0.1488294154405594,3460,False
+cosine model samples (DDPM 200 clipped),0,76,0.15213872492313385,733,False
+cosine model samples (DDPM 200 clipped),0,77,0.16635482013225555,937,False
+cosine model samples (DDPM 200 clipped),0,78,0.15428057312965393,889,False
+cosine model samples (DDPM 200 clipped),0,79,0.1585601568222046,1412,False
+cosine model samples (DDPM 200 clipped),0,80,0.14927488565444946,889,False
+cosine model samples (DDPM 200 clipped),0,81,0.1410558521747589,1561,False
+cosine model samples (DDPM 200 clipped),0,82,0.14623050391674042,1512,False
+cosine model samples (DDPM 200 clipped),0,83,0.1617983877658844,3707,False
+cosine model samples (DDPM 200 clipped),0,84,0.1513957530260086,936,False
+cosine model samples (DDPM 200 clipped),0,85,0.14462724328041077,2845,False
+cosine model samples (DDPM 200 clipped),0,86,0.1488899290561676,937,False
+cosine model samples (DDPM 200 clipped),0,87,0.1591183841228485,315,False
+cosine model samples (DDPM 200 clipped),0,88,0.16860787570476532,1453,False
+cosine model samples (DDPM 200 clipped),0,89,0.14046511054039001,5383,False
+cosine model samples (DDPM 200 clipped),0,90,0.1526617556810379,1672,False
+cosine model samples (DDPM 200 clipped),0,91,0.16282111406326294,1356,False
+cosine model samples (DDPM 200 clipped),0,92,0.15820546448230743,2701,False
+cosine model samples (DDPM 200 clipped),0,93,0.1567438244819641,4378,False
+cosine model samples (DDPM 200 clipped),0,94,0.15728725492954254,888,False
+cosine model samples (DDPM 200 clipped),0,95,0.1736065149307251,1250,False
+cosine model samples (DDPM 200 clipped),0,96,0.1452881544828415,130,False
+cosine model samples (DDPM 200 clipped),0,97,0.1417851746082306,1389,False
+cosine model samples (DDPM 200 clipped),0,98,0.14136837422847748,3757,False
+cosine model samples (DDPM 200 clipped),0,99,0.14036744832992554,1417,False
+cosine model samples (DDPM 200 clipped),0,100,0.15219560265541077,5437,False
+cosine model samples (DDPM 200 clipped),0,101,0.14766906201839447,3735,False
+cosine model samples (DDPM 200 clipped),0,102,0.16202031075954437,4379,False
+cosine model samples (DDPM 200 clipped),0,103,0.14202412962913513,4240,False
+cosine model samples (DDPM 200 clipped),0,104,0.1640985906124115,4437,False
+cosine model samples (DDPM 200 clipped),0,105,0.17217066884040833,893,False
+cosine model samples (DDPM 200 clipped),0,106,0.15168330073356628,2698,False
+cosine model samples (DDPM 200 clipped),0,107,0.14380818605422974,3708,False
+cosine model samples (DDPM 200 clipped),0,108,0.16493870317935944,892,False
+cosine model samples (DDPM 200 clipped),0,109,0.16779126226902008,2760,False
+cosine model samples (DDPM 200 clipped),0,110,0.16809292137622833,5335,False
+cosine model samples (DDPM 200 clipped),0,111,0.14477379620075226,5354,False
+cosine model samples (DDPM 200 clipped),0,112,0.16050922870635986,994,False
+cosine model samples (DDPM 200 clipped),0,113,0.167404443025589,4880,False
+cosine model samples (DDPM 200 clipped),0,114,0.12814638018608093,2409,False
+cosine model samples (DDPM 200 clipped),0,115,0.17354410886764526,3205,False
+cosine model samples (DDPM 200 clipped),0,116,0.1502828299999237,464,False
+cosine model samples (DDPM 200 clipped),0,117,0.14476366341114044,5292,False
+cosine model samples (DDPM 200 clipped),0,118,0.16260556876659393,1171,False
+cosine model samples (DDPM 200 clipped),0,119,0.1471451371908188,3706,False
+cosine model samples (DDPM 200 clipped),0,120,0.150595024228096,3645,False
+cosine model samples (DDPM 200 clipped),0,121,0.16013894975185394,1462,False
+cosine model samples (DDPM 200 clipped),0,122,0.15986408293247223,1308,False
+cosine model samples (DDPM 200 clipped),0,123,0.15596924722194672,2939,False
+cosine model samples (DDPM 200 clipped),0,124,0.1453835666179657,5647,False
+cosine model samples (DDPM 200 clipped),0,125,0.15804480016231537,4279,False
+cosine model samples (DDPM 200 clipped),0,126,0.15872572362422943,3035,False
+cosine model samples (DDPM 200 clipped),0,127,0.1433926671743393,4383,False
+cosine model samples (DDPM 200 clipped),0,128,0.13808351755142212,4182,False
+cosine model samples (DDPM 200 clipped),0,129,0.15012548863887787,4828,False
+cosine model samples (DDPM 200 clipped),0,130,0.140805184841156,1127,False
+cosine model samples (DDPM 200 clipped),0,131,0.15505769848823547,1886,False
+cosine model samples (DDPM 200 clipped),0,132,0.1620253175497055,891,False
+cosine model samples (DDPM 200 clipped),0,133,0.15664918720722198,5742,False
+cosine model samples (DDPM 200 clipped),0,134,0.13945408165454865,1463,False
+cosine model samples (DDPM 200 clipped),0,135,0.13267487287521362,935,False
+cosine model samples (DDPM 200 clipped),0,136,0.13656847178936005,3971,False
+cosine model samples (DDPM 200 clipped),0,137,0.15898314118385315,937,False
+cosine model samples (DDPM 200 clipped),0,138,0.1471671462059021,3328,False
+cosine model samples (DDPM 200 clipped),0,139,0.14970925450325012,3214,False
+cosine model samples (DDPM 200 clipped),0,140,0.13940870761871338,4543,False
+cosine model samples (DDPM 200 clipped),0,141,0.15310336649417877,937,False
+cosine model samples (DDPM 200 clipped),0,142,0.1385047435760498,1722,False
+cosine model samples (DDPM 200 clipped),0,143,0.14245465397834778,69,False
+cosine model samples (DDPM 200 clipped),0,144,0.14991261065006256,2641,False
+cosine model samples (DDPM 200 clipped),0,145,0.1410723477602005,671,False
+cosine model samples (DDPM 200 clipped),0,146,0.13988780975341797,1911,False
+cosine model samples (DDPM 200 clipped),0,147,0.16211088001728058,4442,False
+cosine model samples (DDPM 200 clipped),0,148,0.14549562335014343,5205,False
+cosine model samples (DDPM 200 clipped),0,149,0.14337925612926483,891,False
+cosine model samples (DDPM 200 clipped),0,150,0.14480769634246826,2894,False
+cosine model samples (DDPM 200 clipped),0,151,0.14774683117866516,2130,False
+cosine model samples (DDPM 200 clipped),0,152,0.1554505079984665,2892,False
+cosine model samples (DDPM 200 clipped),0,153,0.14277580380439758,2756,False
+cosine model samples (DDPM 200 clipped),0,154,0.1376613825559616,4343,False
+cosine model samples (DDPM 200 clipped),0,155,0.14484019577503204,1463,False
+cosine model samples (DDPM 200 clipped),0,156,0.15380385518074036,3471,False
+cosine model samples (DDPM 200 clipped),0,157,0.15273864567279816,5142,False
+cosine model samples (DDPM 200 clipped),0,158,0.12959392368793488,2352,False
+cosine model samples (DDPM 200 clipped),0,159,0.14024227857589722,4708,False
+cosine model samples (DDPM 200 clipped),0,160,0.15809570252895355,1318,False
+cosine model samples (DDPM 200 clipped),0,161,0.14831778407096863,1370,False
+cosine model samples (DDPM 200 clipped),0,162,0.14780539274215698,97,False
+cosine model samples (DDPM 200 clipped),0,163,0.14441993832588196,3836,False
+cosine model samples (DDPM 200 clipped),0,164,0.1433887928724289,3827,False
+cosine model samples (DDPM 200 clipped),0,165,0.14399248361587524,2937,False
+cosine model samples (DDPM 200 clipped),0,166,0.15437206625938416,1098,False
+cosine model samples (DDPM 200 clipped),0,167,0.15210579335689545,79,False
+cosine model samples (DDPM 200 clipped),0,168,0.13452085852622986,2409,False
+cosine model samples (DDPM 200 clipped),0,169,0.1505516618490219,4570,False
+cosine model samples (DDPM 200 clipped),0,170,0.16518184542655945,320,False
+cosine model samples (DDPM 200 clipped),0,171,0.1572141945362091,1040,False
+cosine model samples (DDPM 200 clipped),0,172,0.1514863222837448,937,False
+cosine model samples (DDPM 200 clipped),0,173,0.1556892991065979,939,False
+cosine model samples (DDPM 200 clipped),0,174,0.13911579549312592,2590,False
+cosine model samples (DDPM 200 clipped),0,175,0.1510801911354065,1308,False
+cosine model samples (DDPM 200 clipped),0,176,0.14652957022190094,5652,False
+cosine model samples (DDPM 200 clipped),0,177,0.1331162452697754,426,False
+cosine model samples (DDPM 200 clipped),0,178,0.16106855869293213,1266,False
+cosine model samples (DDPM 200 clipped),0,179,0.15910375118255615,2559,False
+cosine model samples (DDPM 200 clipped),0,180,0.15177102386951447,2998,False
+cosine model samples (DDPM 200 clipped),0,181,0.15587285161018372,4447,False
+cosine model samples (DDPM 200 clipped),0,182,0.15295320749282837,1020,False
+cosine model samples (DDPM 200 clipped),0,183,0.14045539498329163,5094,False
+cosine model samples (DDPM 200 clipped),0,184,0.14399002492427826,4816,False
+cosine model samples (DDPM 200 clipped),0,185,0.13628876209259033,2760,False
+cosine model samples (DDPM 200 clipped),0,186,0.17702044546604156,896,False
+cosine model samples (DDPM 200 clipped),0,187,0.14575523138046265,1567,False
+cosine model samples (DDPM 200 clipped),0,188,0.163455531001091,4812,False
+cosine model samples (DDPM 200 clipped),0,189,0.1482996940612793,4879,False
+cosine model samples (DDPM 200 clipped),0,190,0.15052612125873566,1727,False
+cosine model samples (DDPM 200 clipped),0,191,0.1434141993522644,5776,False
+cosine model samples (DDPM 200 clipped),0,192,0.14317156374454498,4175,False
+cosine model samples (DDPM 200 clipped),0,193,0.1970227211713791,940,False
+cosine model samples (DDPM 200 clipped),0,194,0.16326190531253815,2126,False
+cosine model samples (DDPM 200 clipped),0,195,0.1618909388780594,2362,False
+cosine model samples (DDPM 200 clipped),0,196,0.14559854567050934,2351,False
+cosine model samples (DDPM 200 clipped),0,197,0.16688424348831177,997,False
+cosine model samples (DDPM 200 clipped),0,198,0.1570786088705063,4770,False
+cosine model samples (DDPM 200 clipped),0,199,0.15094077587127686,5173,False
+cosine model samples (DDPM 200 clipped),0,200,0.15797369182109833,78,False
+cosine model samples (DDPM 200 clipped),0,201,0.16024984419345856,4240,False
+cosine model samples (DDPM 200 clipped),0,202,0.1463356763124466,3385,False
+cosine model samples (DDPM 200 clipped),0,203,0.14994502067565918,892,False
+cosine model samples (DDPM 200 clipped),0,204,0.12690579891204834,3941,False
+cosine model samples (DDPM 200 clipped),0,205,0.14850328862667084,4380,False
+cosine model samples (DDPM 200 clipped),0,206,0.1396687626838684,2564,False
+cosine model samples (DDPM 200 clipped),0,207,0.14606773853302002,1189,False
+cosine model samples (DDPM 200 clipped),0,208,0.14870116114616394,1462,False
+cosine model samples (DDPM 200 clipped),0,209,0.1336372196674347,909,False
+cosine model samples (DDPM 200 clipped),0,210,0.15910851955413818,933,False
+cosine model samples (DDPM 200 clipped),0,211,0.14266695082187653,1359,False
+cosine model samples (DDPM 200 clipped),0,212,0.155460923910141,1395,False
+cosine model samples (DDPM 200 clipped),0,213,0.1315343677997589,3921,False
+cosine model samples (DDPM 200 clipped),0,214,0.16431741416454315,3922,False
+cosine model samples (DDPM 200 clipped),0,215,0.15371498465538025,1081,False
+cosine model samples (DDPM 200 clipped),0,216,0.1612955778837204,4125,False
+cosine model samples (DDPM 200 clipped),0,217,0.1478423774242401,1521,False
+cosine model samples (DDPM 200 clipped),0,218,0.16099250316619873,900,False
+cosine model samples (DDPM 200 clipped),0,219,0.1588895171880722,3103,False
+cosine model samples (DDPM 200 clipped),0,220,0.13546599447727203,5100,False
+cosine model samples (DDPM 200 clipped),0,221,0.15539906919002533,229,False
+cosine model samples (DDPM 200 clipped),0,222,0.14878112077713013,4253,False
+cosine model samples (DDPM 200 clipped),0,223,0.17399409413337708,2843,False
+cosine model samples (DDPM 200 clipped),0,224,0.15006816387176514,671,False
+cosine model samples (DDPM 200 clipped),0,225,0.1352730691432953,1020,False
+cosine model samples (DDPM 200 clipped),0,226,0.12635266780853271,2410,False
+cosine model samples (DDPM 200 clipped),0,227,0.1366255283355713,935,False
+cosine model samples (DDPM 200 clipped),0,228,0.17477072775363922,2162,False
+cosine model samples (DDPM 200 clipped),0,229,0.15136834979057312,4410,False
+cosine model samples (DDPM 200 clipped),0,230,0.14788001775741577,4243,False
+cosine model samples (DDPM 200 clipped),0,231,0.16697974503040314,5544,False
+cosine model samples (DDPM 200 clipped),0,232,0.1598922461271286,1411,False
+cosine model samples (DDPM 200 clipped),0,233,0.14347946643829346,4188,False
+cosine model samples (DDPM 200 clipped),0,234,0.1337420791387558,3328,False
+cosine model samples (DDPM 200 clipped),0,235,0.1317504346370697,2410,False
+cosine model samples (DDPM 200 clipped),0,236,0.1552305966615677,3828,False
+cosine model samples (DDPM 200 clipped),0,237,0.15215268731117249,3063,False
+cosine model samples (DDPM 200 clipped),0,238,0.15818019211292267,5217,False
+cosine model samples (DDPM 200 clipped),0,239,0.1454503983259201,317,False
+cosine model samples (DDPM 200 clipped),0,240,0.14953674376010895,775,False
+cosine model samples (DDPM 200 clipped),0,241,0.1420643925666809,5496,False
+cosine model samples (DDPM 200 clipped),0,242,0.14643731713294983,1365,False
+cosine model samples (DDPM 200 clipped),0,243,0.16072097420692444,936,False
+cosine model samples (DDPM 200 clipped),0,244,0.1604899913072586,4500,False
+cosine model samples (DDPM 200 clipped),0,245,0.14486396312713623,2564,False
+cosine model samples (DDPM 200 clipped),0,246,0.14917485415935516,727,False
+cosine model samples (DDPM 200 clipped),0,247,0.15056712925434113,3758,False
+cosine model samples (DDPM 200 clipped),0,248,0.1830441653728485,5634,False
+cosine model samples (DDPM 200 clipped),0,249,0.1481296420097351,2405,False
+cosine model samples (DDPM 200 clipped),0,250,0.1478656530380249,5393,False
+cosine model samples (DDPM 200 clipped),0,251,0.15525178611278534,5647,False
+cosine model samples (DDPM 200 clipped),0,252,0.1573445200920105,2759,False
+cosine model samples (DDPM 200 clipped),0,253,0.1407368779182434,3581,False
+cosine model samples (DDPM 200 clipped),0,254,0.15012414753437042,2258,False
+cosine model samples (DDPM 200 clipped),0,255,0.16205093264579773,4242,False
+cosine model samples (DDPM 200 clipped),1,0,0.15979346632957458,2408,False
+cosine model samples (DDPM 200 clipped),1,1,0.17738430202007294,5140,False
+cosine model samples (DDPM 200 clipped),1,2,0.19821485877037048,4239,False
+cosine model samples (DDPM 200 clipped),1,3,0.181890606880188,2587,False
+cosine model samples (DDPM 200 clipped),1,4,0.1707206815481186,3615,False
+cosine model samples (DDPM 200 clipped),1,5,0.1721309870481491,2307,False
+cosine model samples (DDPM 200 clipped),1,6,0.16827377676963806,5141,False
+cosine model samples (DDPM 200 clipped),1,7,0.16593873500823975,3925,False
+cosine model samples (DDPM 200 clipped),1,8,0.1817115992307663,2407,False
+cosine model samples (DDPM 200 clipped),1,9,0.17714476585388184,2357,False
+cosine model samples (DDPM 200 clipped),1,10,0.16922329366207123,2309,False
+cosine model samples (DDPM 200 clipped),1,11,0.1696745753288269,2354,False
+cosine model samples (DDPM 200 clipped),1,12,0.18534882366657257,2526,False
+cosine model samples (DDPM 200 clipped),1,13,0.16045372188091278,2470,False
+cosine model samples (DDPM 200 clipped),1,14,0.17410428822040558,2405,False
+cosine model samples (DDPM 200 clipped),1,15,0.16425703465938568,2890,False
+cosine model samples (DDPM 200 clipped),1,16,0.1656462848186493,2526,False
+cosine model samples (DDPM 200 clipped),1,17,0.16312171518802643,2309,False
+cosine model samples (DDPM 200 clipped),1,18,0.17115472257137299,3061,False
+cosine model samples (DDPM 200 clipped),1,19,0.1777815818786621,2523,False
+cosine model samples (DDPM 200 clipped),1,20,0.18147973716259003,2310,False
+cosine model samples (DDPM 200 clipped),1,21,0.1699070781469345,2310,False
+cosine model samples (DDPM 200 clipped),1,22,0.17315435409545898,2523,False
+cosine model samples (DDPM 200 clipped),1,23,0.17423969507217407,2406,False
+cosine model samples (DDPM 200 clipped),1,24,0.1627545803785324,2587,False
+cosine model samples (DDPM 200 clipped),1,25,0.15404322743415833,3614,False
+cosine model samples (DDPM 200 clipped),1,26,0.16197314858436584,2306,False
+cosine model samples (DDPM 200 clipped),1,27,0.1700511872768402,2408,False
+cosine model samples (DDPM 200 clipped),1,28,0.15359345078468323,2469,False
+cosine model samples (DDPM 200 clipped),1,29,0.17619112133979797,2309,False
+cosine model samples (DDPM 200 clipped),1,30,0.1881221979856491,741,False
+cosine model samples (DDPM 200 clipped),1,31,0.18010638654232025,2587,False
+cosine model samples (DDPM 200 clipped),1,32,0.1911877989768982,2355,False
+cosine model samples (DDPM 200 clipped),1,33,0.17320403456687927,2526,False
+cosine model samples (DDPM 200 clipped),1,34,0.17479127645492554,2890,False
+cosine model samples (DDPM 200 clipped),1,35,0.1777867078781128,3703,False
+cosine model samples (DDPM 200 clipped),1,36,0.15268561244010925,4585,False
+cosine model samples (DDPM 200 clipped),1,37,0.15291382372379303,4078,False
+cosine model samples (DDPM 200 clipped),1,38,0.16887152194976807,2351,False
+cosine model samples (DDPM 200 clipped),1,39,0.1599634438753128,3617,False
+cosine model samples (DDPM 200 clipped),1,40,0.1602432131767273,2406,False
+cosine model samples (DDPM 200 clipped),1,41,0.1663496494293213,2309,False
+cosine model samples (DDPM 200 clipped),1,42,0.17286328971385956,2890,False
+cosine model samples (DDPM 200 clipped),1,43,0.16625560820102692,2355,False
+cosine model samples (DDPM 200 clipped),1,44,0.16602715849876404,2308,False
+cosine model samples (DDPM 200 clipped),1,45,0.16119293868541718,2309,False
+cosine model samples (DDPM 200 clipped),1,46,0.17715276777744293,2309,False
+cosine model samples (DDPM 200 clipped),1,47,0.17496433854103088,2309,False
+cosine model samples (DDPM 200 clipped),1,48,0.18206387758255005,2355,False
+cosine model samples (DDPM 200 clipped),1,49,0.15353775024414062,2408,False
+cosine model samples (DDPM 200 clipped),1,50,0.17998383939266205,2308,False
+cosine model samples (DDPM 200 clipped),1,51,0.18226057291030884,2406,False
+cosine model samples (DDPM 200 clipped),1,52,0.15410596132278442,534,False
+cosine model samples (DDPM 200 clipped),1,53,0.16419324278831482,2357,False
+cosine model samples (DDPM 200 clipped),1,54,0.16969366371631622,2355,False
+cosine model samples (DDPM 200 clipped),1,55,0.15409183502197266,2310,False
+cosine model samples (DDPM 200 clipped),1,56,0.1663186103105545,1254,False
+cosine model samples (DDPM 200 clipped),1,57,0.18514201045036316,2357,False
+cosine model samples (DDPM 200 clipped),1,58,0.15842188894748688,2586,False
+cosine model samples (DDPM 200 clipped),1,59,0.16669005155563354,2306,False
+cosine model samples (DDPM 200 clipped),1,60,0.16939158737659454,2357,False
+cosine model samples (DDPM 200 clipped),1,61,0.1679411083459854,2357,False
+cosine model samples (DDPM 200 clipped),1,62,0.16804805397987366,2310,False
+cosine model samples (DDPM 200 clipped),1,63,0.18026086688041687,2309,False
+cosine model samples (DDPM 200 clipped),1,64,0.177217036485672,2309,False
+cosine model samples (DDPM 200 clipped),1,65,0.1729118973016739,2586,False
+cosine model samples (DDPM 200 clipped),1,66,0.16212399303913116,2586,False
+cosine model samples (DDPM 200 clipped),1,67,0.16823917627334595,2355,False
+cosine model samples (DDPM 200 clipped),1,68,0.19570854306221008,3637,False
+cosine model samples (DDPM 200 clipped),1,69,0.16884933412075043,2355,False
+cosine model samples (DDPM 200 clipped),1,70,0.16604574024677277,3500,False
+cosine model samples (DDPM 200 clipped),1,71,0.16500067710876465,4645,False
+cosine model samples (DDPM 200 clipped),1,72,0.17025640606880188,2308,False
+cosine model samples (DDPM 200 clipped),1,73,0.17924334108829498,2469,False
+cosine model samples (DDPM 200 clipped),1,74,0.17170795798301697,2308,False
+cosine model samples (DDPM 200 clipped),1,75,0.1678883582353592,2309,False
+cosine model samples (DDPM 200 clipped),1,76,0.15118233859539032,2355,False
+cosine model samples (DDPM 200 clipped),1,77,0.1772233247756958,2586,False
+cosine model samples (DDPM 200 clipped),1,78,0.17690947651863098,2307,False
+cosine model samples (DDPM 200 clipped),1,79,0.18178512156009674,4131,False
+cosine model samples (DDPM 200 clipped),1,80,0.16247916221618652,2354,False
+cosine model samples (DDPM 200 clipped),1,81,0.1503700315952301,2358,False
+cosine model samples (DDPM 200 clipped),1,82,0.165878027677536,2355,False
+cosine model samples (DDPM 200 clipped),1,83,0.18345676362514496,2354,False
+cosine model samples (DDPM 200 clipped),1,84,0.16830745339393616,2585,False
+cosine model samples (DDPM 200 clipped),1,85,0.1636461466550827,2309,False
+cosine model samples (DDPM 200 clipped),1,86,0.17212657630443573,2360,False
+cosine model samples (DDPM 200 clipped),1,87,0.18570183217525482,2309,False
+cosine model samples (DDPM 200 clipped),1,88,0.16479472815990448,2309,False
+cosine model samples (DDPM 200 clipped),1,89,0.16519196331501007,2524,False
+cosine model samples (DDPM 200 clipped),1,90,0.16292862594127655,2586,False
+cosine model samples (DDPM 200 clipped),1,91,0.17622902989387512,2587,False
+cosine model samples (DDPM 200 clipped),1,92,0.17779666185379028,791,False
+cosine model samples (DDPM 200 clipped),1,93,0.17221564054489136,2355,False
+cosine model samples (DDPM 200 clipped),1,94,0.17765457928180695,2309,False
+cosine model samples (DDPM 200 clipped),1,95,0.2017853707075119,1251,False
+cosine model samples (DDPM 200 clipped),1,96,0.15797817707061768,2306,False
+cosine model samples (DDPM 200 clipped),1,97,0.16059590876102448,2409,False
+cosine model samples (DDPM 200 clipped),1,98,0.15629209578037262,2307,False
+cosine model samples (DDPM 200 clipped),1,99,0.1671227514743805,2357,False
+cosine model samples (DDPM 200 clipped),1,100,0.18344518542289734,3615,False
+cosine model samples (DDPM 200 clipped),1,101,0.1669212430715561,2405,False
+cosine model samples (DDPM 200 clipped),1,102,0.1766652911901474,2357,False
+cosine model samples (DDPM 200 clipped),1,103,0.1667182743549347,4132,False
+cosine model samples (DDPM 200 clipped),1,104,0.16823075711727142,1788,False
+cosine model samples (DDPM 200 clipped),1,105,0.18202216923236847,890,False
+cosine model samples (DDPM 200 clipped),1,106,0.1601714938879013,2309,False
+cosine model samples (DDPM 200 clipped),1,107,0.16817358136177063,2310,False
+cosine model samples (DDPM 200 clipped),1,108,0.1804227977991104,2355,False
+cosine model samples (DDPM 200 clipped),1,109,0.19165311753749847,4242,False
+cosine model samples (DDPM 200 clipped),1,110,0.17889544367790222,2355,False
+cosine model samples (DDPM 200 clipped),1,111,0.1659253090620041,1767,False
+cosine model samples (DDPM 200 clipped),1,112,0.16509082913398743,2408,False
+cosine model samples (DDPM 200 clipped),1,113,0.18392789363861084,2352,False
+cosine model samples (DDPM 200 clipped),1,114,0.15243184566497803,2586,False
+cosine model samples (DDPM 200 clipped),1,115,0.18593469262123108,2355,False
+cosine model samples (DDPM 200 clipped),1,116,0.16610851883888245,2309,False
+cosine model samples (DDPM 200 clipped),1,117,0.16757485270500183,2890,False
+cosine model samples (DDPM 200 clipped),1,118,0.19281886518001556,1725,False
+cosine model samples (DDPM 200 clipped),1,119,0.1658783257007599,2355,False
+cosine model samples (DDPM 200 clipped),1,120,0.16381336748600006,2355,False
+cosine model samples (DDPM 200 clipped),1,121,0.1801704466342926,2525,False
+cosine model samples (DDPM 200 clipped),1,122,0.16366377472877502,2308,False
+cosine model samples (DDPM 200 clipped),1,123,0.16726410388946533,2308,False
+cosine model samples (DDPM 200 clipped),1,124,0.18056327104568481,2358,False
+cosine model samples (DDPM 200 clipped),1,125,0.1721653789281845,5140,False
+cosine model samples (DDPM 200 clipped),1,126,0.18178902566432953,2890,False
+cosine model samples (DDPM 200 clipped),1,127,0.1667504608631134,2309,False
+cosine model samples (DDPM 200 clipped),1,128,0.16129902005195618,2409,False
+cosine model samples (DDPM 200 clipped),1,129,0.15410135686397552,2469,False
+cosine model samples (DDPM 200 clipped),1,130,0.16162970662117004,2309,False
+cosine model samples (DDPM 200 clipped),1,131,0.17955507338047028,2889,False
+cosine model samples (DDPM 200 clipped),1,132,0.1787145733833313,2352,False
+cosine model samples (DDPM 200 clipped),1,133,0.16982513666152954,2307,False
+cosine model samples (DDPM 200 clipped),1,134,0.170358344912529,2309,False
+cosine model samples (DDPM 200 clipped),1,135,0.16474682092666626,2408,False
+cosine model samples (DDPM 200 clipped),1,136,0.17393939197063446,2355,False
+cosine model samples (DDPM 200 clipped),1,137,0.17432333528995514,2310,False
+cosine model samples (DDPM 200 clipped),1,138,0.16294384002685547,2357,False
+cosine model samples (DDPM 200 clipped),1,139,0.16518154740333557,2309,False
+cosine model samples (DDPM 200 clipped),1,140,0.1583384871482849,2309,False
+cosine model samples (DDPM 200 clipped),1,141,0.1809186190366745,2408,False
+cosine model samples (DDPM 200 clipped),1,142,0.17110060155391693,2308,False
+cosine model samples (DDPM 200 clipped),1,143,0.16120454668998718,2523,False
+cosine model samples (DDPM 200 clipped),1,144,0.17754998803138733,2355,False
+cosine model samples (DDPM 200 clipped),1,145,0.17078974843025208,2305,False
+cosine model samples (DDPM 200 clipped),1,146,0.164038747549057,2308,False
+cosine model samples (DDPM 200 clipped),1,147,0.1794053465127945,2352,False
+cosine model samples (DDPM 200 clipped),1,148,0.16711607575416565,2309,False
+cosine model samples (DDPM 200 clipped),1,149,0.1779525876045227,2357,False
+cosine model samples (DDPM 200 clipped),1,150,0.1611417531967163,2355,False
+cosine model samples (DDPM 200 clipped),1,151,0.15959793329238892,2640,False
+cosine model samples (DDPM 200 clipped),1,152,0.17389458417892456,2355,False
+cosine model samples (DDPM 200 clipped),1,153,0.1662202924489975,2355,False
+cosine model samples (DDPM 200 clipped),1,154,0.16475480794906616,2307,False
+cosine model samples (DDPM 200 clipped),1,155,0.16429461538791656,2308,False
+cosine model samples (DDPM 200 clipped),1,156,0.1693781316280365,2588,False
+cosine model samples (DDPM 200 clipped),1,157,0.165639266371727,2355,False
+cosine model samples (DDPM 200 clipped),1,158,0.14898201823234558,2353,False
+cosine model samples (DDPM 200 clipped),1,159,0.16123750805854797,2307,False
+cosine model samples (DDPM 200 clipped),1,160,0.17750465869903564,3927,False
+cosine model samples (DDPM 200 clipped),1,161,0.17343442142009735,3617,False
+cosine model samples (DDPM 200 clipped),1,162,0.16730494797229767,2353,False
+cosine model samples (DDPM 200 clipped),1,163,0.17410314083099365,2308,False
+cosine model samples (DDPM 200 clipped),1,164,0.1713627725839615,2308,False
+cosine model samples (DDPM 200 clipped),1,165,0.17420978844165802,2524,False
+cosine model samples (DDPM 200 clipped),1,166,0.16445164382457733,2309,False
+cosine model samples (DDPM 200 clipped),1,167,0.16820427775382996,2308,False
+cosine model samples (DDPM 200 clipped),1,168,0.17220565676689148,2587,False
+cosine model samples (DDPM 200 clipped),1,169,0.16725623607635498,3155,False
+cosine model samples (DDPM 200 clipped),1,170,0.18591046333312988,2353,False
+cosine model samples (DDPM 200 clipped),1,171,0.16661867499351501,2307,False
+cosine model samples (DDPM 200 clipped),1,172,0.1711718738079071,3615,False
+cosine model samples (DDPM 200 clipped),1,173,0.17289870977401733,2308,False
+cosine model samples (DDPM 200 clipped),1,174,0.15018852055072784,2588,False
+cosine model samples (DDPM 200 clipped),1,175,0.17119286954402924,3502,False
+cosine model samples (DDPM 200 clipped),1,176,0.1704435795545578,2308,False
+cosine model samples (DDPM 200 clipped),1,177,0.16852562129497528,2357,False
+cosine model samples (DDPM 200 clipped),1,178,0.17948544025421143,2357,False
+cosine model samples (DDPM 200 clipped),1,179,0.1600181758403778,2355,False
+cosine model samples (DDPM 200 clipped),1,180,0.1548025757074356,3157,False
+cosine model samples (DDPM 200 clipped),1,181,0.17073136568069458,2587,False
+cosine model samples (DDPM 200 clipped),1,182,0.1747846156358719,2308,False
+cosine model samples (DDPM 200 clipped),1,183,0.1670851856470108,3557,False
+cosine model samples (DDPM 200 clipped),1,184,0.1639230102300644,2526,False
+cosine model samples (DDPM 200 clipped),1,185,0.16309379041194916,2760,False
+cosine model samples (DDPM 200 clipped),1,186,0.17878931760787964,2354,False
+cosine model samples (DDPM 200 clipped),1,187,0.16116279363632202,2310,False
+cosine model samples (DDPM 200 clipped),1,188,0.18195988237857819,2589,False
+cosine model samples (DDPM 200 clipped),1,189,0.17264504730701447,4644,False
+cosine model samples (DDPM 200 clipped),1,190,0.174998477101326,2355,False
+cosine model samples (DDPM 200 clipped),1,191,0.16019266843795776,2408,False
+cosine model samples (DDPM 200 clipped),1,192,0.15951736271381378,2361,False
+cosine model samples (DDPM 200 clipped),1,193,0.1972368359565735,2308,False
+cosine model samples (DDPM 200 clipped),1,194,0.1804444044828415,2307,False
+cosine model samples (DDPM 200 clipped),1,195,0.1709715873003006,2357,False
+cosine model samples (DDPM 200 clipped),1,196,0.16005012392997742,2353,False
+cosine model samples (DDPM 200 clipped),1,197,0.18130284547805786,2843,False
+cosine model samples (DDPM 200 clipped),1,198,0.17227323353290558,2585,False
+cosine model samples (DDPM 200 clipped),1,199,0.1795406937599182,2309,False
+cosine model samples (DDPM 200 clipped),1,200,0.1645248681306839,2309,False
+cosine model samples (DDPM 200 clipped),1,201,0.17617502808570862,4131,False
+cosine model samples (DDPM 200 clipped),1,202,0.18189756572246552,2307,False
+cosine model samples (DDPM 200 clipped),1,203,0.17242828011512756,2353,False
+cosine model samples (DDPM 200 clipped),1,204,0.1541883647441864,1413,False
+cosine model samples (DDPM 200 clipped),1,205,0.16310930252075195,5698,False
+cosine model samples (DDPM 200 clipped),1,206,0.1688079684972763,2357,False
+cosine model samples (DDPM 200 clipped),1,207,0.17239511013031006,2408,False
+cosine model samples (DDPM 200 clipped),1,208,0.17061007022857666,3925,False
+cosine model samples (DDPM 200 clipped),1,209,0.15627041459083557,2587,False
+cosine model samples (DDPM 200 clipped),1,210,0.16343973577022552,3925,False
+cosine model samples (DDPM 200 clipped),1,211,0.15375548601150513,2357,False
+cosine model samples (DDPM 200 clipped),1,212,0.16956597566604614,2305,False
+cosine model samples (DDPM 200 clipped),1,213,0.16182903945446014,2357,False
+cosine model samples (DDPM 200 clipped),1,214,0.1739734411239624,2310,False
+cosine model samples (DDPM 200 clipped),1,215,0.1779671013355255,2303,False
+cosine model samples (DDPM 200 clipped),1,216,0.17789627611637115,2308,False
+cosine model samples (DDPM 200 clipped),1,217,0.1785692423582077,3614,False
+cosine model samples (DDPM 200 clipped),1,218,0.1888924539089203,5702,False
+cosine model samples (DDPM 200 clipped),1,219,0.16746217012405396,2308,False
+cosine model samples (DDPM 200 clipped),1,220,0.16399894654750824,2310,False
+cosine model samples (DDPM 200 clipped),1,221,0.18021370470523834,2308,False
+cosine model samples (DDPM 200 clipped),1,222,0.16802214086055756,3097,False
+cosine model samples (DDPM 200 clipped),1,223,0.19080781936645508,2308,False
+cosine model samples (DDPM 200 clipped),1,224,0.1626015156507492,4028,False
+cosine model samples (DDPM 200 clipped),1,225,0.14647014439105988,4645,False
+cosine model samples (DDPM 200 clipped),1,226,0.15158383548259735,2408,False
+cosine model samples (DDPM 200 clipped),1,227,0.16295596957206726,2586,False
+cosine model samples (DDPM 200 clipped),1,228,0.2008516937494278,1766,False
+cosine model samples (DDPM 200 clipped),1,229,0.17634041607379913,2409,False
+cosine model samples (DDPM 200 clipped),1,230,0.1630019247531891,2358,False
+cosine model samples (DDPM 200 clipped),1,231,0.1786613166332245,2407,False
+cosine model samples (DDPM 200 clipped),1,232,0.18231303989887238,2408,False
+cosine model samples (DDPM 200 clipped),1,233,0.16259904205799103,2357,False
+cosine model samples (DDPM 200 clipped),1,234,0.15862621366977692,2360,False
+cosine model samples (DDPM 200 clipped),1,235,0.15498653054237366,3615,False
+cosine model samples (DDPM 200 clipped),1,236,0.17019249498844147,2588,False
+cosine model samples (DDPM 200 clipped),1,237,0.18288566172122955,2526,False
+cosine model samples (DDPM 200 clipped),1,238,0.18386238813400269,790,False
+cosine model samples (DDPM 200 clipped),1,239,0.17303507030010223,2308,False
+cosine model samples (DDPM 200 clipped),1,240,0.17409178614616394,362,False
+cosine model samples (DDPM 200 clipped),1,241,0.17315641045570374,2355,False
+cosine model samples (DDPM 200 clipped),1,242,0.1499500870704651,2357,False
+cosine model samples (DDPM 200 clipped),1,243,0.17658878862857819,2587,False
+cosine model samples (DDPM 200 clipped),1,244,0.16868500411510468,2639,False
+cosine model samples (DDPM 200 clipped),1,245,0.1657443344593048,2524,False
+cosine model samples (DDPM 200 clipped),1,246,0.17338189482688904,2308,False
+cosine model samples (DDPM 200 clipped),1,247,0.16619959473609924,2308,False
+cosine model samples (DDPM 200 clipped),1,248,0.18728448450565338,1883,False
+cosine model samples (DDPM 200 clipped),1,249,0.17314675450325012,2309,False
+cosine model samples (DDPM 200 clipped),1,250,0.17006397247314453,2307,False
+cosine model samples (DDPM 200 clipped),1,251,0.1656731814146042,2355,False
+cosine model samples (DDPM 200 clipped),1,252,0.18793810904026031,2309,False
+cosine model samples (DDPM 200 clipped),1,253,0.16204530000686646,2309,False
+cosine model samples (DDPM 200 clipped),1,254,0.16687211394309998,2586,False
+cosine model samples (DDPM 200 clipped),1,255,0.1840582638978958,2524,False
+cosine model samples (DDPM 200 clipped),2,0,0.18166257441043854,3472,False
+cosine model samples (DDPM 200 clipped),2,1,0.18717825412750244,2756,False
+cosine model samples (DDPM 200 clipped),2,2,0.2036922723054886,5534,False
+cosine model samples (DDPM 200 clipped),2,3,0.17450758814811707,1564,False
+cosine model samples (DDPM 200 clipped),2,4,0.18267910182476044,3709,False
+cosine model samples (DDPM 200 clipped),2,5,0.18545693159103394,2303,False
+cosine model samples (DDPM 200 clipped),2,6,0.17455485463142395,5191,False
+cosine model samples (DDPM 200 clipped),2,7,0.18204441666603088,4382,False
+cosine model samples (DDPM 200 clipped),2,8,0.19211125373840332,860,False
+cosine model samples (DDPM 200 clipped),2,9,0.19355501234531403,3645,False
+cosine model samples (DDPM 200 clipped),2,10,0.17796964943408966,3710,False
+cosine model samples (DDPM 200 clipped),2,11,0.1925562173128128,2352,False
+cosine model samples (DDPM 200 clipped),2,12,0.19780923426151276,2262,False
+cosine model samples (DDPM 200 clipped),2,13,0.17391903698444366,4617,False
+cosine model samples (DDPM 200 clipped),2,14,0.17666643857955933,2403,False
+cosine model samples (DDPM 200 clipped),2,15,0.18122410774230957,2299,False
+cosine model samples (DDPM 200 clipped),2,16,0.18023672699928284,2283,False
+cosine model samples (DDPM 200 clipped),2,17,0.18317903578281403,1091,False
+cosine model samples (DDPM 200 clipped),2,18,0.19188113510608673,549,False
+cosine model samples (DDPM 200 clipped),2,19,0.19844962656497955,2521,False
+cosine model samples (DDPM 200 clipped),2,20,0.1929534673690796,2131,False
+cosine model samples (DDPM 200 clipped),2,21,0.19364258646965027,3906,False
+cosine model samples (DDPM 200 clipped),2,22,0.1765790432691574,1176,False
+cosine model samples (DDPM 200 clipped),2,23,0.19104823470115662,1252,False
+cosine model samples (DDPM 200 clipped),2,24,0.1695397049188614,978,False
+cosine model samples (DDPM 200 clipped),2,25,0.16495466232299805,597,False
+cosine model samples (DDPM 200 clipped),2,26,0.17456471920013428,1174,False
+cosine model samples (DDPM 200 clipped),2,27,0.18431106209754944,1588,False
+cosine model samples (DDPM 200 clipped),2,28,0.17557793855667114,2840,False
+cosine model samples (DDPM 200 clipped),2,29,0.19710439443588257,887,False
+cosine model samples (DDPM 200 clipped),2,30,0.19985492527484894,2403,False
+cosine model samples (DDPM 200 clipped),2,31,0.19930846989154816,4191,False
+cosine model samples (DDPM 200 clipped),2,32,0.19500000774860382,2129,False
+cosine model samples (DDPM 200 clipped),2,33,0.1791611611843109,4379,False
+cosine model samples (DDPM 200 clipped),2,34,0.21045686304569244,5581,False
+cosine model samples (DDPM 200 clipped),2,35,0.18272647261619568,931,False
+cosine model samples (DDPM 200 clipped),2,36,0.16313506662845612,2105,False
+cosine model samples (DDPM 200 clipped),2,37,0.1682671457529068,4079,False
+cosine model samples (DDPM 200 clipped),2,38,0.18212667107582092,4877,False
+cosine model samples (DDPM 200 clipped),2,39,0.17717762291431427,2706,False
+cosine model samples (DDPM 200 clipped),2,40,0.1771136224269867,5398,False
+cosine model samples (DDPM 200 clipped),2,41,0.1946851909160614,1855,False
+cosine model samples (DDPM 200 clipped),2,42,0.19739945232868195,2886,False
+cosine model samples (DDPM 200 clipped),2,43,0.16840815544128418,2405,False
+cosine model samples (DDPM 200 clipped),2,44,0.19782714545726776,4617,False
+cosine model samples (DDPM 200 clipped),2,45,0.17360273003578186,2404,False
+cosine model samples (DDPM 200 clipped),2,46,0.17636625468730927,2263,False
+cosine model samples (DDPM 200 clipped),2,47,0.1931217759847641,3711,False
+cosine model samples (DDPM 200 clipped),2,48,0.18558405339717865,890,False
+cosine model samples (DDPM 200 clipped),2,49,0.172161266207695,2234,False
+cosine model samples (DDPM 200 clipped),2,50,0.19400395452976227,1592,False
+cosine model samples (DDPM 200 clipped),2,51,0.19484344124794006,1252,False
+cosine model samples (DDPM 200 clipped),2,52,0.1698969453573227,2519,False
+cosine model samples (DDPM 200 clipped),2,53,0.18893077969551086,1940,False
+cosine model samples (DDPM 200 clipped),2,54,0.16921162605285645,914,False
+cosine model samples (DDPM 200 clipped),2,55,0.18020808696746826,1465,False
+cosine model samples (DDPM 200 clipped),2,56,0.1706041395664215,1255,False
+cosine model samples (DDPM 200 clipped),2,57,0.20174020528793335,2459,False
+cosine model samples (DDPM 200 clipped),2,58,0.15984950959682465,3877,False
+cosine model samples (DDPM 200 clipped),2,59,0.17796538770198822,2519,False
+cosine model samples (DDPM 200 clipped),2,60,0.16798901557922363,1817,False
+cosine model samples (DDPM 200 clipped),2,61,0.18292909860610962,1642,False
+cosine model samples (DDPM 200 clipped),2,62,0.18090379238128662,2510,False
+cosine model samples (DDPM 200 clipped),2,63,0.20099954307079315,2934,False
+cosine model samples (DDPM 200 clipped),2,64,0.17369918525218964,4243,False
+cosine model samples (DDPM 200 clipped),2,65,0.18411214649677277,5615,False
+cosine model samples (DDPM 200 clipped),2,66,0.18356432020664215,5001,False
+cosine model samples (DDPM 200 clipped),2,67,0.1837255358695984,2636,False
+cosine model samples (DDPM 200 clipped),2,68,0.21152618527412415,3150,False
+cosine model samples (DDPM 200 clipped),2,69,0.18725691735744476,5234,False
+cosine model samples (DDPM 200 clipped),2,70,0.18553249537944794,2255,False
+cosine model samples (DDPM 200 clipped),2,71,0.18708603084087372,3592,False
+cosine model samples (DDPM 200 clipped),2,72,0.1850856989622116,2336,False
+cosine model samples (DDPM 200 clipped),2,73,0.2064724713563919,2174,False
+cosine model samples (DDPM 200 clipped),2,74,0.19574035704135895,1465,False
+cosine model samples (DDPM 200 clipped),2,75,0.17550212144851685,3653,False
+cosine model samples (DDPM 200 clipped),2,76,0.17683422565460205,3647,False
+cosine model samples (DDPM 200 clipped),2,77,0.19465529918670654,3239,False
+cosine model samples (DDPM 200 clipped),2,78,0.19315427541732788,4131,False
+cosine model samples (DDPM 200 clipped),2,79,0.2046421617269516,4132,False
+cosine model samples (DDPM 200 clipped),2,80,0.1842643767595291,1001,False
+cosine model samples (DDPM 200 clipped),2,81,0.17203423380851746,1029,False
+cosine model samples (DDPM 200 clipped),2,82,0.17537692189216614,1513,False
+cosine model samples (DDPM 200 clipped),2,83,0.20108740031719208,3708,False
+cosine model samples (DDPM 200 clipped),2,84,0.17319001257419586,2583,False
+cosine model samples (DDPM 200 clipped),2,85,0.1752689629793167,883,False
+cosine model samples (DDPM 200 clipped),2,86,0.18692365288734436,937,False
+cosine model samples (DDPM 200 clipped),2,87,0.18373654782772064,890,False
+cosine model samples (DDPM 200 clipped),2,88,0.18140079081058502,4116,False
+cosine model samples (DDPM 200 clipped),2,89,0.16995741426944733,5259,False
+cosine model samples (DDPM 200 clipped),2,90,0.18070420622825623,3045,False
+cosine model samples (DDPM 200 clipped),2,91,0.20000681281089783,3645,False
+cosine model samples (DDPM 200 clipped),2,92,0.17682763934135437,2807,False
+cosine model samples (DDPM 200 clipped),2,93,0.1872190684080124,5142,False
+cosine model samples (DDPM 200 clipped),2,94,0.19807974994182587,790,False
+cosine model samples (DDPM 200 clipped),2,95,0.20752134919166565,1251,False
+cosine model samples (DDPM 200 clipped),2,96,0.17994840443134308,1614,False
+cosine model samples (DDPM 200 clipped),2,97,0.1743166595697403,1388,False
+cosine model samples (DDPM 200 clipped),2,98,0.17575772106647491,1415,False
+cosine model samples (DDPM 200 clipped),2,99,0.17695096135139465,854,False
+cosine model samples (DDPM 200 clipped),2,100,0.1912049949169159,5440,False
+cosine model samples (DDPM 200 clipped),2,101,0.18396200239658356,5392,False
+cosine model samples (DDPM 200 clipped),2,102,0.19508305191993713,3707,False
+cosine model samples (DDPM 200 clipped),2,103,0.18438710272312164,4115,False
+cosine model samples (DDPM 200 clipped),2,104,0.19940949976444244,2519,False
+cosine model samples (DDPM 200 clipped),2,105,0.19666792452335358,891,False
+cosine model samples (DDPM 200 clipped),2,106,0.1814069300889969,3711,False
+cosine model samples (DDPM 200 clipped),2,107,0.18487447500228882,3708,False
+cosine model samples (DDPM 200 clipped),2,108,0.20959901809692383,892,False
+cosine model samples (DDPM 200 clipped),2,109,0.20118200778961182,2578,False
+cosine model samples (DDPM 200 clipped),2,110,0.20529845356941223,5334,False
+cosine model samples (DDPM 200 clipped),2,111,0.1674651950597763,5356,False
+cosine model samples (DDPM 200 clipped),2,112,0.19134072959423065,2105,False
+cosine model samples (DDPM 200 clipped),2,113,0.21378539502620697,4880,False
+cosine model samples (DDPM 200 clipped),2,114,0.1535443514585495,2586,False
+cosine model samples (DDPM 200 clipped),2,115,0.1996479332447052,1346,False
+cosine model samples (DDPM 200 clipped),2,116,0.187957763671875,1019,False
+cosine model samples (DDPM 200 clipped),2,117,0.18013224005699158,4512,False
+cosine model samples (DDPM 200 clipped),2,118,0.2031424343585968,1170,False
+cosine model samples (DDPM 200 clipped),2,119,0.18237215280532837,3707,False
+cosine model samples (DDPM 200 clipped),2,120,0.1870191991329193,3645,False
+cosine model samples (DDPM 200 clipped),2,121,0.19559241831302643,1725,False
+cosine model samples (DDPM 200 clipped),2,122,0.19059179723262787,5192,False
+cosine model samples (DDPM 200 clipped),2,123,0.18702326714992523,2640,False
+cosine model samples (DDPM 200 clipped),2,124,0.18904618918895721,5647,False
+cosine model samples (DDPM 200 clipped),2,125,0.19390740990638733,5140,False
+cosine model samples (DDPM 200 clipped),2,126,0.18596409261226654,892,False
+cosine model samples (DDPM 200 clipped),2,127,0.17174804210662842,4383,False
+cosine model samples (DDPM 200 clipped),2,128,0.17893673479557037,4612,False
+cosine model samples (DDPM 200 clipped),2,129,0.17404848337173462,3013,False
+cosine model samples (DDPM 200 clipped),2,130,0.17500367760658264,890,False
+cosine model samples (DDPM 200 clipped),2,131,0.19094569981098175,4398,False
+cosine model samples (DDPM 200 clipped),2,132,0.19359396398067474,3160,False
+cosine model samples (DDPM 200 clipped),2,133,0.2059413492679596,768,False
+cosine model samples (DDPM 200 clipped),2,134,0.1852944791316986,2309,False
+cosine model samples (DDPM 200 clipped),2,135,0.17651569843292236,3834,False
+cosine model samples (DDPM 200 clipped),2,136,0.16628453135490417,2258,False
+cosine model samples (DDPM 200 clipped),2,137,0.18528082966804504,1354,False
+cosine model samples (DDPM 200 clipped),2,138,0.17951278388500214,3709,False
+cosine model samples (DDPM 200 clipped),2,139,0.18535101413726807,4447,False
+cosine model samples (DDPM 200 clipped),2,140,0.17112958431243896,3828,False
+cosine model samples (DDPM 200 clipped),2,141,0.18641014397144318,2405,False
+cosine model samples (DDPM 200 clipped),2,142,0.1696680188179016,2307,False
+cosine model samples (DDPM 200 clipped),2,143,0.18643811345100403,2988,False
+cosine model samples (DDPM 200 clipped),2,144,0.19306936860084534,2641,False
+cosine model samples (DDPM 200 clipped),2,145,0.17524787783622742,1607,False
+cosine model samples (DDPM 200 clipped),2,146,0.16552311182022095,1985,False
+cosine model samples (DDPM 200 clipped),2,147,0.1945473700761795,891,False
+cosine model samples (DDPM 200 clipped),2,148,0.18763086199760437,1538,False
+cosine model samples (DDPM 200 clipped),2,149,0.18664240837097168,890,False
+cosine model samples (DDPM 200 clipped),2,150,0.17960326373577118,790,False
+cosine model samples (DDPM 200 clipped),2,151,0.178439661860466,1646,False
+cosine model samples (DDPM 200 clipped),2,152,0.19944578409194946,4832,False
+cosine model samples (DDPM 200 clipped),2,153,0.18637403845787048,937,False
+cosine model samples (DDPM 200 clipped),2,154,0.16970649361610413,1790,False
+cosine model samples (DDPM 200 clipped),2,155,0.1752602905035019,3645,False
+cosine model samples (DDPM 200 clipped),2,156,0.19489124417304993,1625,False
+cosine model samples (DDPM 200 clipped),2,157,0.18724258244037628,5141,False
+cosine model samples (DDPM 200 clipped),2,158,0.16171015799045563,1929,False
+cosine model samples (DDPM 200 clipped),2,159,0.17704074084758759,2304,False
+cosine model samples (DDPM 200 clipped),2,160,0.19056390225887299,3051,False
+cosine model samples (DDPM 200 clipped),2,161,0.1750085949897766,1355,False
+cosine model samples (DDPM 200 clipped),2,162,0.18253082036972046,2351,False
+cosine model samples (DDPM 200 clipped),2,163,0.18682046234607697,597,False
+cosine model samples (DDPM 200 clipped),2,164,0.17540548741817474,2303,False
+cosine model samples (DDPM 200 clipped),2,165,0.18460491299629211,2935,False
+cosine model samples (DDPM 200 clipped),2,166,0.1850649118423462,5071,False
+cosine model samples (DDPM 200 clipped),2,167,0.18126487731933594,826,False
+cosine model samples (DDPM 200 clipped),2,168,0.16989128291606903,2522,False
+cosine model samples (DDPM 200 clipped),2,169,0.1827993094921112,4569,False
+cosine model samples (DDPM 200 clipped),2,170,0.2032749354839325,1925,False
+cosine model samples (DDPM 200 clipped),2,171,0.18431821465492249,2263,False
+cosine model samples (DDPM 200 clipped),2,172,0.17034675180912018,5114,False
+cosine model samples (DDPM 200 clipped),2,173,0.19044940173625946,2938,False
+cosine model samples (DDPM 200 clipped),2,174,0.17189355194568634,887,False
+cosine model samples (DDPM 200 clipped),2,175,0.1794840395450592,5350,False
+cosine model samples (DDPM 200 clipped),2,176,0.18600217998027802,5238,False
+cosine model samples (DDPM 200 clipped),2,177,0.16409766674041748,2467,False
+cosine model samples (DDPM 200 clipped),2,178,0.19047518074512482,1266,False
+cosine model samples (DDPM 200 clipped),2,179,0.18147890269756317,1976,False
+cosine model samples (DDPM 200 clipped),2,180,0.1812324821949005,5238,False
+cosine model samples (DDPM 200 clipped),2,181,0.19215235114097595,1130,False
+cosine model samples (DDPM 200 clipped),2,182,0.19938971102237701,2128,False
+cosine model samples (DDPM 200 clipped),2,183,0.1805543154478073,3531,False
+cosine model samples (DDPM 200 clipped),2,184,0.17388032376766205,2132,False
+cosine model samples (DDPM 200 clipped),2,185,0.16983705759048462,5136,False
+cosine model samples (DDPM 200 clipped),2,186,0.20486363768577576,767,False
+cosine model samples (DDPM 200 clipped),2,187,0.18339109420776367,5125,False
+cosine model samples (DDPM 200 clipped),2,188,0.18995928764343262,4808,False
+cosine model samples (DDPM 200 clipped),2,189,0.18445709347724915,5288,False
+cosine model samples (DDPM 200 clipped),2,190,0.18739281594753265,2638,False
+cosine model samples (DDPM 200 clipped),2,191,0.17321281135082245,2463,False
+cosine model samples (DDPM 200 clipped),2,192,0.17915409803390503,2204,False
+cosine model samples (DDPM 200 clipped),2,193,0.22348304092884064,3710,False
+cosine model samples (DDPM 200 clipped),2,194,0.19129416346549988,1854,False
+cosine model samples (DDPM 200 clipped),2,195,0.18861602246761322,3708,False
+cosine model samples (DDPM 200 clipped),2,196,0.18672454357147217,2350,False
+cosine model samples (DDPM 200 clipped),2,197,0.19263504445552826,998,False
+cosine model samples (DDPM 200 clipped),2,198,0.18448123335838318,4802,False
+cosine model samples (DDPM 200 clipped),2,199,0.19091521203517914,316,False
+cosine model samples (DDPM 200 clipped),2,200,0.1960483193397522,2403,False
+cosine model samples (DDPM 200 clipped),2,201,0.2015765756368637,2841,False
+cosine model samples (DDPM 200 clipped),2,202,0.19575302302837372,2304,False
+cosine model samples (DDPM 200 clipped),2,203,0.18248063325881958,892,False
+cosine model samples (DDPM 200 clipped),2,204,0.15927764773368835,1725,False
+cosine model samples (DDPM 200 clipped),2,205,0.18306156992912292,1573,False
+cosine model samples (DDPM 200 clipped),2,206,0.16879957914352417,2566,False
+cosine model samples (DDPM 200 clipped),2,207,0.18340489268302917,1535,False
+cosine model samples (DDPM 200 clipped),2,208,0.17436426877975464,3708,False
+cosine model samples (DDPM 200 clipped),2,209,0.17082086205482483,1592,False
+cosine model samples (DDPM 200 clipped),2,210,0.19184578955173492,3707,False
+cosine model samples (DDPM 200 clipped),2,211,0.17040912806987762,2754,False
+cosine model samples (DDPM 200 clipped),2,212,0.18395595252513885,826,False
+cosine model samples (DDPM 200 clipped),2,213,0.17078381776809692,967,False
+cosine model samples (DDPM 200 clipped),2,214,0.1927928775548935,731,False
+cosine model samples (DDPM 200 clipped),2,215,0.194635808467865,2262,False
+cosine model samples (DDPM 200 clipped),2,216,0.1850370168685913,4121,False
+cosine model samples (DDPM 200 clipped),2,217,0.17965736985206604,3654,False
+cosine model samples (DDPM 200 clipped),2,218,0.1962340921163559,900,False
+cosine model samples (DDPM 200 clipped),2,219,0.1962655633687973,3045,False
+cosine model samples (DDPM 200 clipped),2,220,0.17660024762153625,5102,False
+cosine model samples (DDPM 200 clipped),2,221,0.1842462569475174,2265,False
+cosine model samples (DDPM 200 clipped),2,222,0.1737670600414276,1609,False
+cosine model samples (DDPM 200 clipped),2,223,0.20077507197856903,3707,False
+cosine model samples (DDPM 200 clipped),2,224,0.1875021606683731,908,False
+cosine model samples (DDPM 200 clipped),2,225,0.16231460869312286,1020,False
+cosine model samples (DDPM 200 clipped),2,226,0.16634173691272736,2587,False
+cosine model samples (DDPM 200 clipped),2,227,0.16866609454154968,3884,False
+cosine model samples (DDPM 200 clipped),2,228,0.2067335993051529,2299,False
+cosine model samples (DDPM 200 clipped),2,229,0.18921369314193726,2131,False
+cosine model samples (DDPM 200 clipped),2,230,0.18206053972244263,1340,False
+cosine model samples (DDPM 200 clipped),2,231,0.1892506182193756,1911,False
+cosine model samples (DDPM 200 clipped),2,232,0.19744046032428741,4830,False
+cosine model samples (DDPM 200 clipped),2,233,0.16874349117279053,5498,False
+cosine model samples (DDPM 200 clipped),2,234,0.16280308365821838,3709,False
+cosine model samples (DDPM 200 clipped),2,235,0.16339606046676636,2306,False
+cosine model samples (DDPM 200 clipped),2,236,0.1834462732076645,881,False
+cosine model samples (DDPM 200 clipped),2,237,0.1960555464029312,3707,False
+cosine model samples (DDPM 200 clipped),2,238,0.1987556666135788,790,False
+cosine model samples (DDPM 200 clipped),2,239,0.19018827378749847,2639,False
+cosine model samples (DDPM 200 clipped),2,240,0.17583054304122925,2337,False
+cosine model samples (DDPM 200 clipped),2,241,0.17735719680786133,5496,False
+cosine model samples (DDPM 200 clipped),2,242,0.17219741642475128,2459,False
+cosine model samples (DDPM 200 clipped),2,243,0.19355632364749908,936,False
+cosine model samples (DDPM 200 clipped),2,244,0.17901082336902618,2396,False
+cosine model samples (DDPM 200 clipped),2,245,0.1745571792125702,3529,False
+cosine model samples (DDPM 200 clipped),2,246,0.17169204354286194,1905,False
+cosine model samples (DDPM 200 clipped),2,247,0.19458326697349548,2511,False
+cosine model samples (DDPM 200 clipped),2,248,0.2013142853975296,2884,False
+cosine model samples (DDPM 200 clipped),2,249,0.1911250352859497,3099,False
+cosine model samples (DDPM 200 clipped),2,250,0.18413826823234558,2129,False
+cosine model samples (DDPM 200 clipped),2,251,0.18978950381278992,2261,False
+cosine model samples (DDPM 200 clipped),2,252,0.20125268399715424,5194,False
+cosine model samples (DDPM 200 clipped),2,253,0.1748376041650772,1021,False
+cosine model samples (DDPM 200 clipped),2,254,0.18674081563949585,1255,False
+cosine model samples (DDPM 200 clipped),2,255,0.18990573287010193,4240,False
+base model samples (DDPM 200),0,0,0.2255658209323883,2586,False
+base model samples (DDPM 200),0,1,0.23340344429016113,3708,False
+base model samples (DDPM 200),0,2,0.21963822841644287,890,False
+base model samples (DDPM 200),0,3,0.2293090671300888,2310,False
+base model samples (DDPM 200),0,4,0.22651199996471405,3708,False
+base model samples (DDPM 200),0,5,0.2354435920715332,2586,False
+base model samples (DDPM 200),0,6,0.22552497684955597,3652,False
+base model samples (DDPM 200),0,7,0.22517889738082886,3708,False
+base model samples (DDPM 200),0,8,0.23356449604034424,3708,False
+base model samples (DDPM 200),0,9,0.22921502590179443,2586,False
+base model samples (DDPM 200),0,10,0.22846685349941254,3708,False
+base model samples (DDPM 200),0,11,0.2271699458360672,2587,False
+base model samples (DDPM 200),0,12,0.23104189336299896,3708,False
+base model samples (DDPM 200),0,13,0.23489245772361755,2310,False
+base model samples (DDPM 200),0,14,0.22846198081970215,3708,False
+base model samples (DDPM 200),0,15,0.22730091214179993,3708,False
+base model samples (DDPM 200),0,16,0.22657367587089539,3708,False
+base model samples (DDPM 200),0,17,0.23235073685646057,3708,False
+base model samples (DDPM 200),0,18,0.23027680814266205,3708,False
+base model samples (DDPM 200),0,19,0.22931259870529175,2309,False
+base model samples (DDPM 200),0,20,0.23389534652233124,3708,False
+base model samples (DDPM 200),0,21,0.23079226911067963,2310,False
+base model samples (DDPM 200),0,22,0.23256300389766693,3708,False
+base model samples (DDPM 200),0,23,0.22463862597942352,3708,False
+base model samples (DDPM 200),0,24,0.22391653060913086,3708,False
+base model samples (DDPM 200),0,25,0.22419029474258423,3708,False
+base model samples (DDPM 200),0,26,0.22654841840267181,3708,False
+base model samples (DDPM 200),0,27,0.22472871840000153,3708,False
+base model samples (DDPM 200),0,28,0.22838044166564941,2587,False
+base model samples (DDPM 200),0,29,0.22504332661628723,3708,False
+base model samples (DDPM 200),0,30,0.23476378619670868,3708,False
+base model samples (DDPM 200),0,31,0.22927728295326233,3708,False
+base model samples (DDPM 200),0,32,0.22882875800132751,3708,False
+base model samples (DDPM 200),0,33,0.2275572568178177,2310,False
+base model samples (DDPM 200),0,34,0.23012685775756836,3708,False
+base model samples (DDPM 200),0,35,0.222986102104187,3708,False
+base model samples (DDPM 200),0,36,0.22081850469112396,3708,False
+base model samples (DDPM 200),0,37,0.2321622371673584,2586,False
+base model samples (DDPM 200),0,38,0.226060688495636,3708,False
+base model samples (DDPM 200),0,39,0.2285408228635788,3708,False
+base model samples (DDPM 200),0,40,0.2288232147693634,3652,False
+base model samples (DDPM 200),0,41,0.23205867409706116,2310,False
+base model samples (DDPM 200),0,42,0.2326221913099289,3653,False
+base model samples (DDPM 200),0,43,0.23033899068832397,2586,False
+base model samples (DDPM 200),0,44,0.235428124666214,2310,False
+base model samples (DDPM 200),0,45,0.22613073885440826,3708,False
+base model samples (DDPM 200),0,46,0.22606156766414642,3708,False
+base model samples (DDPM 200),0,47,0.22453226149082184,3708,False
+base model samples (DDPM 200),0,48,0.23265546560287476,3708,False
+base model samples (DDPM 200),0,49,0.22607164084911346,3708,False
+base model samples (DDPM 200),0,50,0.23097901046276093,2310,False
+base model samples (DDPM 200),0,51,0.2284788191318512,3708,False
+base model samples (DDPM 200),0,52,0.22982603311538696,3708,False
+base model samples (DDPM 200),0,53,0.23131750524044037,2586,False
+base model samples (DDPM 200),0,54,0.2263922244310379,3652,False
+base model samples (DDPM 200),0,55,0.222308948636055,2310,False
+base model samples (DDPM 200),0,56,0.2196826934814453,2310,False
+base model samples (DDPM 200),0,57,0.23542210459709167,2586,False
+base model samples (DDPM 200),0,58,0.22232215106487274,2586,False
+base model samples (DDPM 200),0,59,0.2233562022447586,3708,False
+base model samples (DDPM 200),0,60,0.2260783612728119,3708,False
+base model samples (DDPM 200),0,61,0.23296959698200226,3708,False
+base model samples (DDPM 200),0,62,0.2239108681678772,2586,False
+base model samples (DDPM 200),0,63,0.231675386428833,3708,False
+base model samples (DDPM 200),0,64,0.23615209758281708,3708,False
+base model samples (DDPM 200),0,65,0.23215220868587494,3653,False
+base model samples (DDPM 200),0,66,0.2319677174091339,2309,False
+base model samples (DDPM 200),0,67,0.2279796600341797,2586,False
+base model samples (DDPM 200),0,68,0.22962291538715363,3708,False
+base model samples (DDPM 200),0,69,0.22657769918441772,3708,False
+base model samples (DDPM 200),0,70,0.22830265760421753,3708,False
+base model samples (DDPM 200),0,71,0.23036469519138336,3708,False
+base model samples (DDPM 200),0,72,0.2275628298521042,3708,False
+base model samples (DDPM 200),0,73,0.23303735256195068,3708,False
+base model samples (DDPM 200),0,74,0.23581260442733765,3708,False
+base model samples (DDPM 200),0,75,0.22259151935577393,3708,False
+base model samples (DDPM 200),0,76,0.2238432765007019,3708,False
+base model samples (DDPM 200),0,77,0.22740085422992706,3708,False
+base model samples (DDPM 200),0,78,0.23601339757442474,3708,False
+base model samples (DDPM 200),0,79,0.23129890859127045,3708,False
+base model samples (DDPM 200),0,80,0.2282494455575943,2586,False
+base model samples (DDPM 200),0,81,0.22520092129707336,2587,False
+base model samples (DDPM 200),0,82,0.23216857016086578,2586,False
+base model samples (DDPM 200),0,83,0.23604705929756165,2310,False
+base model samples (DDPM 200),0,84,0.2335062026977539,2310,False
+base model samples (DDPM 200),0,85,0.22798587381839752,2587,False
+base model samples (DDPM 200),0,86,0.22650955617427826,3708,False
+base model samples (DDPM 200),0,87,0.22971875965595245,2586,False
+base model samples (DDPM 200),0,88,0.2293730527162552,3708,False
+base model samples (DDPM 200),0,89,0.2258106917142868,3708,False
+base model samples (DDPM 200),0,90,0.23338955640792847,3652,False
+base model samples (DDPM 200),0,91,0.23643822968006134,2587,False
+base model samples (DDPM 200),0,92,0.22454307973384857,3708,False
+base model samples (DDPM 200),0,93,0.22672706842422485,3708,False
+base model samples (DDPM 200),0,94,0.22783975303173065,2309,False
+base model samples (DDPM 200),0,95,0.23713523149490356,3708,False
+base model samples (DDPM 200),0,96,0.22539770603179932,3708,False
+base model samples (DDPM 200),0,97,0.2239581048488617,3708,False
+base model samples (DDPM 200),0,98,0.22293616831302643,2309,False
+base model samples (DDPM 200),0,99,0.2323921024799347,3708,False
+base model samples (DDPM 200),0,100,0.22912757098674774,3707,False
+base model samples (DDPM 200),0,101,0.2327309399843216,2586,False
+base model samples (DDPM 200),0,102,0.23289898037910461,3708,False
+base model samples (DDPM 200),0,103,0.22845157980918884,3708,False
+base model samples (DDPM 200),0,104,0.23203054070472717,3708,False
+base model samples (DDPM 200),0,105,0.23347541689872742,3708,False
+base model samples (DDPM 200),0,106,0.2297932207584381,3708,False
+base model samples (DDPM 200),0,107,0.22766688466072083,3708,False
+base model samples (DDPM 200),0,108,0.2307523488998413,2586,False
+base model samples (DDPM 200),0,109,0.22958523035049438,3708,False
+base model samples (DDPM 200),0,110,0.2323642373085022,3708,False
+base model samples (DDPM 200),0,111,0.2197762131690979,3708,False
+base model samples (DDPM 200),0,112,0.2297859489917755,3653,False
+base model samples (DDPM 200),0,113,0.22493603825569153,3708,False
+base model samples (DDPM 200),0,114,0.22106795012950897,2586,False
+base model samples (DDPM 200),0,115,0.23353956639766693,3708,False
+base model samples (DDPM 200),0,116,0.23498982191085815,3708,False
+base model samples (DDPM 200),0,117,0.2276497632265091,3708,False
+base model samples (DDPM 200),0,118,0.2324957400560379,3708,False
+base model samples (DDPM 200),0,119,0.22903743386268616,3708,False
+base model samples (DDPM 200),0,120,0.22752390801906586,2310,False
+base model samples (DDPM 200),0,121,0.23071373999118805,3708,False
+base model samples (DDPM 200),0,122,0.23028317093849182,2257,False
+base model samples (DDPM 200),0,123,0.23030778765678406,2586,False
+base model samples (DDPM 200),0,124,0.2260904461145401,3708,False
+base model samples (DDPM 200),0,125,0.23166555166244507,3708,False
+base model samples (DDPM 200),0,126,0.22517485916614532,3708,False
+base model samples (DDPM 200),0,127,0.22590121626853943,3708,False
+base model samples (DDPM 200),0,128,0.2241162359714508,3708,False
+base model samples (DDPM 200),0,129,0.22877323627471924,3707,False
+base model samples (DDPM 200),0,130,0.23027965426445007,3708,False
+base model samples (DDPM 200),0,131,0.22819377481937408,3653,False
+base model samples (DDPM 200),0,132,0.23383605480194092,2309,False
+base model samples (DDPM 200),0,133,0.22919008135795593,3708,False
+base model samples (DDPM 200),0,134,0.22799141705036163,3708,False
+base model samples (DDPM 200),0,135,0.2235231250524521,3708,False
+base model samples (DDPM 200),0,136,0.233115091919899,3708,False
+base model samples (DDPM 200),0,137,0.22356094419956207,2310,False
+base model samples (DDPM 200),0,138,0.22705964744091034,3708,False
+base model samples (DDPM 200),0,139,0.22596058249473572,2586,False
+base model samples (DDPM 200),0,140,0.21798472106456757,2257,False
+base model samples (DDPM 200),0,141,0.23367108404636383,2310,False
+base model samples (DDPM 200),0,142,0.22322064638137817,2310,False
+base model samples (DDPM 200),0,143,0.22538961470127106,890,False
+base model samples (DDPM 200),0,144,0.2327226847410202,3708,False
+base model samples (DDPM 200),0,145,0.2287258803844452,3708,False
+base model samples (DDPM 200),0,146,0.22606739401817322,2258,False
+base model samples (DDPM 200),0,147,0.2286853939294815,3708,False
+base model samples (DDPM 200),0,148,0.23439529538154602,2310,False
+base model samples (DDPM 200),0,149,0.2293364256620407,3707,False
+base model samples (DDPM 200),0,150,0.2236236333847046,3708,False
+base model samples (DDPM 200),0,151,0.2277848869562149,3708,False
+base model samples (DDPM 200),0,152,0.2300533950328827,3707,False
+base model samples (DDPM 200),0,153,0.23258063197135925,3708,False
+base model samples (DDPM 200),0,154,0.2252613753080368,3708,False
+base model samples (DDPM 200),0,155,0.2300441563129425,3708,False
+base model samples (DDPM 200),0,156,0.2341371327638626,890,False
+base model samples (DDPM 200),0,157,0.23523111641407013,2310,False
+base model samples (DDPM 200),0,158,0.22350184619426727,3708,False
+base model samples (DDPM 200),0,159,0.22517216205596924,3708,False
+base model samples (DDPM 200),0,160,0.22972537577152252,3708,False
+base model samples (DDPM 200),0,161,0.23124246299266815,3708,False
+base model samples (DDPM 200),0,162,0.23105262219905853,3708,False
+base model samples (DDPM 200),0,163,0.22911542654037476,3708,False
+base model samples (DDPM 200),0,164,0.22670185565948486,2309,False
+base model samples (DDPM 200),0,165,0.22501252591609955,2587,False
+base model samples (DDPM 200),0,166,0.22827006876468658,2310,False
+base model samples (DDPM 200),0,167,0.23519691824913025,2310,False
+base model samples (DDPM 200),0,168,0.23107825219631195,2587,False
+base model samples (DDPM 200),0,169,0.22476790845394135,3708,False
+base model samples (DDPM 200),0,170,0.23033063113689423,3708,False
+base model samples (DDPM 200),0,171,0.23324054479599,3708,False
+base model samples (DDPM 200),0,172,0.22602710127830505,2309,False
+base model samples (DDPM 200),0,173,0.22955039143562317,3708,False
+base model samples (DDPM 200),0,174,0.22415395081043243,2587,False
+base model samples (DDPM 200),0,175,0.22686876356601715,2310,False
+base model samples (DDPM 200),0,176,0.22747540473937988,2309,False
+base model samples (DDPM 200),0,177,0.2227935492992401,3708,False
+base model samples (DDPM 200),0,178,0.22666791081428528,3708,False
+base model samples (DDPM 200),0,179,0.22760218381881714,3708,False
+base model samples (DDPM 200),0,180,0.2277011126279831,3708,False
+base model samples (DDPM 200),0,181,0.22360938787460327,5141,False
+base model samples (DDPM 200),0,182,0.22849631309509277,2309,False
+base model samples (DDPM 200),0,183,0.22611574828624725,3708,False
+base model samples (DDPM 200),0,184,0.22767554223537445,3708,False
+base model samples (DDPM 200),0,185,0.22786486148834229,3708,False
+base model samples (DDPM 200),0,186,0.23429055511951447,3652,False
+base model samples (DDPM 200),0,187,0.22532786428928375,2310,False
+base model samples (DDPM 200),0,188,0.22481630742549896,3708,False
+base model samples (DDPM 200),0,189,0.22584767639636993,3708,False
+base model samples (DDPM 200),0,190,0.23874959349632263,3708,False
+base model samples (DDPM 200),0,191,0.2289574295282364,3708,False
+base model samples (DDPM 200),0,192,0.22442403435707092,2586,False
+base model samples (DDPM 200),0,193,0.23366934061050415,3708,False
+base model samples (DDPM 200),0,194,0.22876083850860596,3708,False
+base model samples (DDPM 200),0,195,0.2317267209291458,2586,False
+base model samples (DDPM 200),0,196,0.23087579011917114,3708,False
+base model samples (DDPM 200),0,197,0.22854459285736084,2586,False
+base model samples (DDPM 200),0,198,0.23098690807819366,2586,False
+base model samples (DDPM 200),0,199,0.2332717776298523,3708,False
+base model samples (DDPM 200),0,200,0.2315635085105896,2309,False
+base model samples (DDPM 200),0,201,0.23158493638038635,3708,False
+base model samples (DDPM 200),0,202,0.22617460787296295,2310,False
+base model samples (DDPM 200),0,203,0.2318262904882431,3708,False
+base model samples (DDPM 200),0,204,0.22394093871116638,3708,False
+base model samples (DDPM 200),0,205,0.22962775826454163,3707,False
+base model samples (DDPM 200),0,206,0.23061741888523102,3708,False
+base model samples (DDPM 200),0,207,0.22735166549682617,2310,False
+base model samples (DDPM 200),0,208,0.2280963957309723,3708,False
+base model samples (DDPM 200),0,209,0.2290840595960617,3652,False
+base model samples (DDPM 200),0,210,0.21885870397090912,3708,False
+base model samples (DDPM 200),0,211,0.22519958019256592,2586,False
+base model samples (DDPM 200),0,212,0.23189395666122437,3708,False
+base model samples (DDPM 200),0,213,0.22660940885543823,2586,False
+base model samples (DDPM 200),0,214,0.2277897745370865,3652,False
+base model samples (DDPM 200),0,215,0.22886325418949127,3708,False
+base model samples (DDPM 200),0,216,0.22595542669296265,2310,False
+base model samples (DDPM 200),0,217,0.225713849067688,3653,False
+base model samples (DDPM 200),0,218,0.22751544415950775,3708,False
+base model samples (DDPM 200),0,219,0.2283460944890976,3708,False
+base model samples (DDPM 200),0,220,0.22733119130134583,2310,False
+base model samples (DDPM 200),0,221,0.23136870563030243,3708,False
+base model samples (DDPM 200),0,222,0.2288106232881546,2310,False
+base model samples (DDPM 200),0,223,0.23208069801330566,3708,False
+base model samples (DDPM 200),0,224,0.22666166722774506,2308,False
+base model samples (DDPM 200),0,225,0.22995856404304504,3708,False
+base model samples (DDPM 200),0,226,0.22479628026485443,3708,False
+base model samples (DDPM 200),0,227,0.22278445959091187,2310,False
+base model samples (DDPM 200),0,228,0.2290540188550949,3708,False
+base model samples (DDPM 200),0,229,0.2308654934167862,3708,False
+base model samples (DDPM 200),0,230,0.22916799783706665,3708,False
+base model samples (DDPM 200),0,231,0.22946041822433472,2310,False
+base model samples (DDPM 200),0,232,0.22475078701972961,3708,False
+base model samples (DDPM 200),0,233,0.23046353459358215,3708,False
+base model samples (DDPM 200),0,234,0.22575420141220093,3708,False
+base model samples (DDPM 200),0,235,0.2271307408809662,3708,False
+base model samples (DDPM 200),0,236,0.22546033561229706,3708,False
+base model samples (DDPM 200),0,237,0.22995856404304504,3708,False
+base model samples (DDPM 200),0,238,0.23519174754619598,3708,False
+base model samples (DDPM 200),0,239,0.2255813032388687,2257,False
+base model samples (DDPM 200),0,240,0.22638171911239624,3708,False
+base model samples (DDPM 200),0,241,0.22714878618717194,2587,False
+base model samples (DDPM 200),0,242,0.22329002618789673,3708,False
+base model samples (DDPM 200),0,243,0.23183785378932953,3708,False
+base model samples (DDPM 200),0,244,0.23489676415920258,3708,False
+base model samples (DDPM 200),0,245,0.2333654910326004,3708,False
+base model samples (DDPM 200),0,246,0.2231215536594391,2586,False
+base model samples (DDPM 200),0,247,0.2287745624780655,2586,False
+base model samples (DDPM 200),0,248,0.23239189386367798,3708,False
+base model samples (DDPM 200),0,249,0.22753946483135223,3708,False
+base model samples (DDPM 200),0,250,0.22870752215385437,3708,False
+base model samples (DDPM 200),0,251,0.2289428412914276,2257,False
+base model samples (DDPM 200),0,252,0.23313398659229279,3708,False
+base model samples (DDPM 200),0,253,0.22578245401382446,3708,False
+base model samples (DDPM 200),0,254,0.2333114892244339,2586,False
+base model samples (DDPM 200),0,255,0.22523440420627594,3708,False

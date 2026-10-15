@@ -1,0 +1,158 @@
+{
+ "fields": 5777,
+ "training": 5200,
+ "held_out": 577,
+ "data_mean": 0.7840673327445984,
+ "data_std": 0.3409680426120758,
+ "T": 200,
+ "epochs": 40,
+ "clip": [
+  -2.3800928592681885,
+  1.4700335264205933
+ ],
+ "device": "/GPU:0",
+ "train_min_per_seed": [
+  18.57,
+  18.53,
+  19.24
+ ],
+ "final_loss_per_seed": [
+  0.01473,
+  0.01419,
+  0.01254
+ ],
+ "longest_training_min": 19.243652498722078,
+ "verdict": [
+  {
+   "statistic": "mean_profile_mae",
+   "cosine_median": 0.06835378706455231,
+   "cosine_min": 0.04286034032702446,
+   "cosine_max": 0.08354099839925766,
+   "base_model": 0.1924629807472229,
+   "base_model_clipped": 0.19246673583984375,
+   "real_to_real": 0.0006670531001873314,
+   "cosine_beats_base": true,
+   "cosine_beats_base_clipped": true,
+   "cosine_worse_than_base": false,
+   "gap_closed": false
+  },
+  {
+   "statistic": "rms_profile_mae",
+   "cosine_median": 0.05151025578379631,
+   "cosine_min": 0.04670475423336029,
+   "cosine_max": 0.07357707619667053,
+   "base_model": 0.030155427753925323,
+   "base_model_clipped": 0.030154574662446976,
+   "real_to_real": 0.000402492587454617,
+   "cosine_beats_base": false,
+   "cosine_beats_base_clipped": false,
+   "cosine_worse_than_base": false,
+   "gap_closed": false
+  },
+  {
+   "statistic": "spectral_distance_y15",
+   "cosine_median": 0.5424125587634988,
+   "cosine_min": 0.43863204403024103,
+   "cosine_max": 0.7235823214035981,
+   "base_model": 0.44143632234106817,
+   "base_model_clipped": 0.44138304771394693,
+   "real_to_real": 0.022052963807449928,
+   "cosine_beats_base": false,
+   "cosine_beats_base_clipped": false,
+   "cosine_worse_than_base": false,
+   "gap_closed": false
+  },
+  {
+   "statistic": "spectral_distance_all_rows",
+   "cosine_median": 0.48073599166476216,
+   "cosine_min": 0.3709741430538654,
+   "cosine_max": 0.6382666701310746,
+   "base_model": 0.42166765633652414,
+   "base_model_clipped": 0.42157707304374814,
+   "real_to_real": 0.0067026346486622436,
+   "cosine_beats_base": false,
+   "cosine_beats_base_clipped": false,
+   "cosine_worse_than_base": false,
+   "gap_closed": false
+  },
+  {
+   "statistic": "corr_mae_y15",
+   "cosine_median": 0.08112930506467819,
+   "cosine_min": 0.06551603972911835,
+   "cosine_max": 0.08252579718828201,
+   "base_model": 0.12073513865470886,
+   "base_model_clipped": 0.12073558568954468,
+   "real_to_real": 0.010757364332675934,
+   "cosine_beats_base": true,
+   "cosine_beats_base_clipped": true,
+   "cosine_worse_than_base": false,
+   "gap_closed": false
+  },
+  {
+   "statistic": "pdf_wasserstein_y15",
+   "cosine_median": 0.06472088887466775,
+   "cosine_min": 0.0375681368029797,
+   "cosine_max": 0.10821464590867336,
+   "base_model": 0.14991503240552773,
+   "base_model_clipped": 0.1499092349562985,
+   "real_to_real": 0.0010137909186448938,
+   "cosine_beats_base": true,
+   "cosine_beats_base_clipped": true,
+   "cosine_worse_than_base": false,
+   "gap_closed": false
+  }
+ ],
+ "nearest_quantiles": [
+  {
+   "ensemble": "held-out real fields, any training field",
+   "count": 577.0,
+   "mean": 0.02656248399739249,
+   "std": 0.0034814331310377418,
+   "min": 0.018256908282637596,
+   "1%": 0.02068708449602127,
+   "5%": 0.022006629034876823,
+   "50%": 0.026366136968135834,
+   "95%": 0.03129434138536453,
+   "max": 0.05240977182984352
+  },
+  {
+   "ensemble": "held-out real fields, different snapshot only",
+   "count": 577.0,
+   "mean": 0.1092138840482801,
+   "std": 0.004862273487011172,
+   "min": 0.08979656547307968,
+   "1%": 0.09771093845367432,
+   "5%": 0.10162038207054139,
+   "50%": 0.10906779021024704,
+   "95%": 0.11770313680171966,
+   "max": 0.12442374974489212
+  },
+  {
+   "ensemble": "cosine model samples (DDPM 200 clipped)",
+   "count": 768.0,
+   "mean": 0.16867655114037916,
+   "std": 0.017548958590338407,
+   "min": 0.12187620997428894,
+   "1%": 0.13261667564511298,
+   "5%": 0.14045879542827605,
+   "50%": 0.16886042803525925,
+   "95%": 0.1974261075258255,
+   "max": 0.22348304092884064
+  },
+  {
+   "ensemble": "base model samples (DDPM 200)",
+   "count": 256.0,
+   "mean": 0.22866863233502954,
+   "std": 0.0037803514589763994,
+   "min": 0.21798472106456757,
+   "1%": 0.2196626842021942,
+   "5%": 0.22297361865639687,
+   "50%": 0.22861499339342117,
+   "95%": 0.2350403033196926,
+   "max": 0.23874959349632263
+  }
+ ],
+ "wall_min": 62.3,
+ "tensorflow": "2.18.1",
+ "keras": "3.6.0"
+}
