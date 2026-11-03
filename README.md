@@ -10,11 +10,11 @@ Portfolio page: https://vamsigudipati.github.io/diffusion-channel-flow-fields.ht
 | --- | --- | --- | --- | --- |
 | `notebooks/01_diffusion_channel_flow.ipynb` | Stage 1 — A diffusion model for synthetic channel-flow fields | `results/01_diffusion_channel_flow/exercises/` | `models/01_diffusion_channel_flow/diffusion_denoiser.keras` (the trained denoiser, 2.1 MB; reload with `create_denoiser` + `load_weights`, since it contains a `Lambda` layer) | `animations/01_*` |
 | `notebooks/02_field_statistics_and_memorisation.ipynb` | Stage 2 — Field statistics and memorisation | `results/02_field_statistics_and_memorisation/` | — (uses the Stage 1 denoiser; no training) | — |
-| `notebooks/03_cosine_schedule_and_calibrated_copying.ipynb` | Stage 3 — The cosine schedule at full training, and a copying test with a calibrated distance | `results/03_cosine_schedule_and_calibrated_copying/` | `models/03_cosine_schedule_and_calibrated_copying/cosine_denoiser_seed0.keras` (the seed-0 cosine denoiser, 2.2 MB; reload as for Stage 1's) | — |
+| `notebooks/03_cosine_schedule_and_calibrated_copying.ipynb` | Stage 3 — The cosine schedule at full training, and a copying test with a calibrated distance | `results/03_cosine_schedule_and_calibrated_copying/` | `models/03_cosine_schedule_and_calibrated_copying/cosine_denoiser_seed0.keras` (the seed-0 cosine denoiser, 2.1 MB; reload as for Stage 1's) | — |
 
-Each notebook is also exported as HTML next to it, with all outputs. `exercises/` holds the tables (CSV) and figures (PNG) of Stage 1's experiments and the three-seed repeats (`seeds_runs.csv`, `seeds_summary.csv`). Stage 2 writes its tables, its figures and the CPU/GPU timing files into its results folder; Stage 3 writes its tables, figures and per-seed loss histories into its own. `animations/` holds the training video and its final frame.
+Each notebook is also exported as HTML next to it, with all outputs. `docs/REPO_MAP.md` describes every file, the order the stages run in, and the results file behind each number below. `exercises/` holds the tables (CSV) and figures (PNG) of Stage 1's experiments and the three-seed repeats (`seeds_runs.csv`, `seeds_summary.csv`). Stage 2 writes its tables, its figures and the CPU/GPU timing files into its results folder; Stage 3 writes its tables, figures and per-seed loss histories into its own. `animations/` holds the training video and its final frame.
 
-The outputs in the notebooks come from my single run of each notebook. For this repository I changed only text afterwards: a header cell and a paths cell in each notebook, the path lines (data, model, outputs), comments, labels and printed text. The notebooks were not executed again in this layout, so the paths cell is the one cell without an output. The title of the training video was replaced with a plain one; its frames are otherwise those of the run.
+The outputs in the notebooks come from my single run of each notebook. For this repository I changed only text afterwards: a header cell and a paths cell in each notebook, the path lines (data, model, outputs), comments, labels and printed text. The notebooks were not executed again in this layout, so the paths cell is the one printing cell without an output. The title of the training video was replaced with a plain one; its frames are otherwise those of the run.
 
 ## Data
 
@@ -24,7 +24,7 @@ No new upload. The planes are the same 5,777 files as in my U-Net project and co
 | --- | --- | --- | --- |
 | `u_yx_planes_h5.tar` (from the unet-turbulent-fields release) | 1.6 GB | extract into `release_assets/`, giving `release_assets/u_yx_planes_h5/` (5,777 files `P125_83pi.<snapshot>.<plane>.h5`) | `410518b833edc2fd5bf1b5c569fd2ed35ea15824ed924117958ef8c1edefadd5` |
 
-`release_assets/` is ignored by git. The trained denoisers (Stage 1, 2.1 MB; Stage 3 seed 0, 2.2 MB) are in git; its 5-epoch checkpoints are not. My run trained every model here; no pretrained model is used.
+`release_assets/` is ignored by git. The trained denoisers (Stage 1, 2.1 MB; Stage 3 seed 0, 2.1 MB) are in git; its 5-epoch checkpoints are not. My run trained every model here; no pretrained model is used.
 
 ## Setting up and running
 
@@ -47,6 +47,47 @@ All paths inside the notebooks are relative to `notebooks/`, so run them from th
 **Why the Apple GPU.** Before training, I timed one training step of each network inside `model.fit` (batch 16, median of 30 steps after 10 warm-up steps) on the CPU and on the Apple GPU (`results/02_field_statistics_and_memorisation/device_timing_*.csv`). In milliseconds per step: the denoiser 588.6 vs 87.1, the conditional denoiser with two input channels 596.8 vs 91.2. The GPU is about 6.7 times faster, so all three notebooks run on it (Stage 3 reuses the timings; the environment is unchanged).
 
 **Why three seeds, and where there is only one.** A single training gives one draw of the initial weights, of the batch order and of the noise. The denoiser's 40-epoch training took 22 minutes, so I ran it once (seed 0, the base run) and say so wherever its numbers appear. The experiment trainings (about 5 minutes each) and every sampler are repeated with the seeds 0, 1 and 2. I report the mean and the range, and a difference smaller than that range is not an effect. With a fixed seed, the seeded experiment trainings reproduced an earlier run of mine to every printed digit on the GPU. The base training, which the notebook seeds only once at the top rather than directly before training, did not (mean-profile error 0.22 in the earlier run, 0.19 in this one); I have not established why. In Stage 3 each cosine training (18.5–19.2 minutes) is repeated with three model seeds all the same, because the base model's seed spread was never measured and measuring it was part of the experiment; the ranges there are over model seeds, not sampling seeds.
+
+## Reproduce
+
+Two things can be reproduced: the tests, in seconds, on any machine; and the notebooks themselves, which need the 1.6 GB of planes and, on a CPU, hours.
+
+**The tests and the extracted package** (no data needed). `src/diffusion_flow/` holds the schedules, data handling, statistics, denoiser and samplers that the notebooks define inline, copied without change; the tests check the package against the notebook definitions themselves (parsed from the `.ipynb` files, not executed), run a forward pass of the denoiser on a two-sample batch, and read every number of this README back from `results/`. The same commands run in CI (`.github/workflows/tests.yml`) on every push.
+
+```bash
+python3.12 -m venv .venv-test
+source .venv-test/bin/activate
+pip install -r requirements-test.txt
+python -m pytest -q
+```
+
+Expected: 47 tests pass. Wall time on a CPU: about 15 s for the tests (most of it TensorFlow's import), after a one-time install of about 2 minutes.
+
+**The notebooks** (the full run, as in the section above). On the Apple GPU, Stage 1 took 92 minutes, Stage 2 took 5 minutes and Stage 3 took 62 minutes. On a CPU the measured training step is 6.7 times slower (588.6 ms against 87.1 ms), so a CPU-only run is an estimate from that ratio: Stage 1 about 9 hours (2 hours of them for the base training's 13,000 steps, 6.5 hours for the twelve 10-epoch experiment trainings of 3,250 steps each, the rest sampling), Stage 2 about 35 minutes, Stage 3 about 7 hours (three 40-epoch trainings). Run from `notebooks/`, in order, after extracting the planes into `release_assets/`:
+
+```bash
+cd notebooks
+jupyter nbconvert --to notebook --execute --inplace --ExecutePreprocessor.timeout=-1 01_diffusion_channel_flow.ipynb
+jupyter nbconvert --to notebook --execute --inplace --ExecutePreprocessor.timeout=-1 02_field_statistics_and_memorisation.ipynb
+jupyter nbconvert --to notebook --execute --inplace --ExecutePreprocessor.timeout=-1 03_cosine_schedule_and_calibrated_copying.ipynb
+```
+
+A re-run on another device reproduces the seeded experiment trainings and samplers to the printed digits only on the same device and library versions; the base training is seeded once at the top of the notebook and did not reproduce exactly even on the same laptop (see above). To reload a saved denoiser without re-training:
+
+```python
+from diffusion_flow.model import load_denoiser
+denoiser = load_denoiser("models/01_diffusion_channel_flow/diffusion_denoiser.keras")   # 508,785 weights
+```
+
+## Limitations
+
+- **One flow, one quantity, one plane orientation.** 5,777 y–x planes of u at Re_τ ≈ 125 from one simulation; the model has not been tested on other Reynolds numbers, other velocity components or three-dimensional fields.
+- **The data split is not independent.** The 577 held-out planes come from the same 107 snapshots as the training planes (every held-out field has training planes of its own snapshot), which is why Stage 2's copying distance of 0.026 had to be recalibrated in Stage 3 (0.109 once same-snapshot planes are excluded). A split by snapshot would be the stricter design.
+- **The base training is a single run.** The 40-epoch linear-schedule denoiser was trained once (seed 0); its seed spread is unknown, and an earlier run of it gave a mean-profile error of 0.22 against 0.19 here. The cosine model has three seeds, with a wide spread (0.043–0.084).
+- **The samples are not yet realistic fields.** The best model's mean-profile error (0.068) is a hundred times the real-to-real level (0.0007), its RMS profile is too high everywhere, and the small-scale energy of every model is far above the real one (spectral distances of 0.44–0.72 against 0.02 between two real sets).
+- **Small model, short chain, no ablations beyond the schedule.** 508,785 weights, T = 200, 40 epochs, Adam 2e-4, batch 16 throughout; no learning-rate schedule, EMA, attention or larger T was tried except T = 500 at 10 epochs.
+- **Timings are from one laptop.** All wall times are from an Apple M3 Max with `tensorflow-metal`; the CPU times in the Reproduce section are estimates from the measured step-time ratio, not measurements.
+- **The notebooks were not re-executed in this layout.** Their outputs come from the author's run; only text and paths were changed afterwards, as described above. The tests check the extracted functions and the results files, not the training itself.
 
 ## What the stages show
 
